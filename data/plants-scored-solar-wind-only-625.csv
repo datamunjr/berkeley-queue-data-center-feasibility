@@ -1,0 +1,626 @@
+computer_rank,plant,developer_or_owner,county,state,grid_region,berkeley_queue_ids,type,plant_mw,approval_stage,share_of_test_data_center_yearly_need,data_center_mw_with_4h_battery,data_center_mw_with_8h_battery,score_0_to_100,reviewed_closely
+1,Fortuna Wind,"RWE Renewables Development, LLC",Jack,TX,Texas (ERCOT),22INR0301,Wind,295.3,Waiting in line: signed grid connection agreement,97%,75.0,105.0,90,no
+2,Roseland Solar,"Enel Green Power Roseland Solar, LLC",Falls,TX,Texas (ERCOT),20INR0205 | 22INR0506,Solar,508.0,Waiting in line: signed grid connection agreement,104%,52.5,82.5,88,no
+3,Bigway Solar I,"NextEra Energy Interconnection Holdings, LLC",King,TX,Texas (ERCOT),27INR0127 | 27INR0128,Solar,406.0,Waiting in line: signed grid connection agreement,83%,52.5,82.5,88,no
+4,Half Moon Solar,"NextEra Energy Interconnection Holdings, LLC",Starr,TX,Texas (ERCOT),28INR0127,Solar,512.5,Waiting in line: signed grid connection agreement,104%,52.5,82.5,88,no
+5,Big Sampson Wind,"Big Sampson Wind Project, LLC",Crockett,TX,Texas (ERCOT),16INR0104,Wind,265.4,Waiting in line: signed grid connection agreement,87%,75.0,105.0,86,no
+6,Armstrong Wind,Big Sky Energy,Armstrong,TX,Texas (ERCOT),18INR0029,Wind,253.0,Waiting in line: signed grid connection agreement,83%,75.0,105.0,86,no
+7,Monte Alto 2 Wind,Terra-Gen,Willacy,TX,Texas (ERCOT),19INR0023,Wind,199.5,Waiting in line: signed grid connection agreement,66%,75.0,105.0,86,no
+8,Prairie Hill Wind,Prairie Hill LLC,Mclennan,TX,Texas (ERCOT),19INR0100,Wind,297.2,Waiting in line: signed grid connection agreement,98%,75.0,105.0,86,no
+9,El Sauz Ranch,"El Sauz Ranch Wind, LLC",Willacy,TX,Texas (ERCOT),20INR0097,Wind,301.5,Waiting in line: signed grid connection agreement,99%,75.0,105.0,86,no
+10,Foxtrot Wind,Lincoln Clean,Bee,TX,Texas (ERCOT),20INR0129,Wind,268.2,Waiting in line: signed grid connection agreement,88%,75.0,105.0,86,no
+11,Peyton Creek Wind II,"RWE Renewables Development, LLC",Matagorda,TX,Texas (ERCOT),20INR0155,Wind,241.2,Waiting in line: signed grid connection agreement,80%,75.0,105.0,86,no
+12,Monarch Creek Wind,"MONARCH CREEK WIND, LLC",Throckmorton,TX,Texas (ERCOT),21INR0263,Wind,284.3,Waiting in line: signed grid connection agreement,94%,75.0,105.0,86,no
+13,Board Creek Wind,"Limestone Wind Project, LLC",Navarro,TX,Texas (ERCOT),21INR0324,Wind,299.2,Waiting in line: signed grid connection agreement,99%,75.0,105.0,86,no
+14,Aquilla Lake 3 Wind,Aquilla Lake 3 Wind,Hill,TX,Texas (ERCOT),22INR0499,Wind,297.4,Waiting in line: signed grid connection agreement,98%,75.0,105.0,86,no
+15,Lane City Wind,"RWE Clean Energy, LLC",Wharton,TX,Texas (ERCOT),22INR0517,Wind,199.5,Waiting in line: signed grid connection agreement,66%,75.0,105.0,86,no
+16,Goodnight Wind II,"FGE Goodnight II, LLC",Armstrong,TX,Texas (ERCOT),23INR0637,Wind,259.2,Waiting in line: signed grid connection agreement,85%,75.0,105.0,86,no
+17,Yellow Cat Wind,Yellow Cat Wind LLC,Navarro,TX,Texas (ERCOT),25INR0018,Wind,262.0,Waiting in line: signed grid connection agreement,86%,75.0,105.0,86,no
+18,Crossroads Wind,HyFuels Green Lake Wind LLC,Victoria,TX,Texas (ERCOT),26INR0021,Wind,276.8,Waiting in line: signed grid connection agreement,91%,75.0,105.0,86,no
+19,West Munday Wind,"Lake Creek Wind, LLC",Knox,TX,Texas (ERCOT),26INR0531,Wind,351.9,Waiting in line: signed grid connection agreement,116%,75.0,105.0,86,no
+20,Dundee East B Wind,"Felix 2, LLC",Baylor,TX,Texas (ERCOT),27INR0011,Wind,261.3,Waiting in line: signed grid connection agreement,86%,75.0,105.0,86,no
+21,Laurel Wind Energy Center,"LAUREL ENERGY CENTER, LLC",Pecos,TX,Texas (ERCOT),27INR0056,Wind,306.6,Waiting in line: signed grid connection agreement,101%,75.0,105.0,86,no
+22,Bob Creek Wind,"NextEra Energy Interconnection Holdings, LLC",Sterling,TX,Texas (ERCOT),27INR0076,Wind,240.0,Waiting in line: signed grid connection agreement,79%,75.0,105.0,86,no
+23,Buffalo Jump Wind,"BOULEVARD ASSOCIATES, LLC",Culberson,TX,Texas (ERCOT),27INR0334,Wind,740.0,Waiting in line: final grid engineering study,244%,75.0,105.0,86,no
+24,Windjammer Windpower,"Windjammer Windpower, LLC",Glasscock,TX,Texas (ERCOT),27INR0383,Wind,292.6,Waiting in line: signed grid connection agreement,96%,75.0,105.0,86,no
+25,Straight Spur Wind,ENGIE IR Holdings LLC,Andrews,TX,Texas (ERCOT),27INR0384,Wind,247.4,Waiting in line: final grid engineering study,82%,75.0,105.0,86,no
+26,Moon Chapel Wind,"Orsted Onshore Development North America, LLC",Tom Green,TX,Texas (ERCOT),27INR0445,Wind,379.2,Waiting in line: final grid engineering study,125%,75.0,105.0,86,no
+27,Sitges Wind,"NextEra Energy Interconnection Holdings, LLC",Motley,TX,Texas (ERCOT),28INR0017,Wind,600.0,Waiting in line: final grid engineering study,198%,75.0,105.0,86,no
+28,Bullring Wind 1,"Halcon Wind, LLC",Starr,TX,Texas (ERCOT),28INR0037,Wind,303.5,Waiting in line: signed grid connection agreement,100%,75.0,105.0,86,no
+29,Bullring Wind 2,"Halcon Wind, LLC",Starr,TX,Texas (ERCOT),28INR0038,Wind,303.8,Waiting in line: signed grid connection agreement,100%,75.0,105.0,86,no
+30,Ciervo Wind,"RWE Clean Energy Development, LLC",Jim Hogg,TX,Texas (ERCOT),28INR0242,Wind,301.5,Waiting in line: final grid engineering study,99%,75.0,105.0,86,no
+31,Live Oak Wind II,ENGIE IR Holdings LLC,Schleicher,TX,Texas (ERCOT),28INR0280,Wind,302.6,Waiting in line: final grid engineering study,100%,75.0,105.0,86,no
+32,Skyrider Wind,"NextEra Energy Interconnection Holdings, LLC",Pecos,TX,Texas (ERCOT),29INR0025,Wind,370.0,Waiting in line: final grid engineering study,122%,75.0,105.0,86,no
+33,Slager Lake Wind,"NextEra Energy Resources Interconnection Holdings, LLC",Reagan,TX,Texas (ERCOT),29INR0042,Wind,310.2,Waiting in line: final grid engineering study,102%,75.0,105.0,86,no
+34,Dorado Solar,"Enbridge Solar (Sequoia I), LLC",Callahan,TX,Texas (ERCOT),22INR0261,Solar,401.4,Waiting in line: signed grid connection agreement,82%,52.5,82.5,84,no
+35,Millers Branch Solar I,"Miller's Branch Solar LLC | Miller's Branch Solar, LLC",Haskell,TX,Texas (ERCOT),22INR0270 | 24INR0044 | 26INR0521,Solar,511.0,Waiting in line: signed grid connection agreement,104%,52.5,82.5,84,no
+36,Clutch City Solar Phase I,"HZ SOLAR I, LLC | HZ Solar I, LLC",Brazoria,TX,Texas (ERCOT),22INR0279 | 25INR0330,Solar,452.0,Waiting in line: signed grid connection agreement,92%,52.5,82.5,84,no
+37,Skylab Solar,"EDF Renewables Development, Inc.",Wharton,TX,Texas (ERCOT),22INR0337,Solar,609.7,Waiting in line: final grid engineering study,124%,52.5,82.5,84,no
+38,Baker Branch Solar,"Mockingbird Solar Center, LLC",Lamar,TX,Texas (ERCOT),23INR0026,Solar,469.4,Waiting in line: signed grid connection agreement,96%,52.5,82.5,84,no
+39,Charger Solar,"AP Solar 4, LLC",Refugio,TX,Texas (ERCOT),23INR0047,Solar,397.1,Waiting in line: signed grid connection agreement,81%,52.5,82.5,84,no
+40,Hanson Solar,"Hanson Solar, LLC",Coleman,TX,Texas (ERCOT),23INR0086,Solar,398.8,Waiting in line: signed grid connection agreement,81%,52.5,82.5,84,no
+41,Dry Creek Solar I,OAK HILL SOLAR LLC | Oak Hill Solar II LLC,Rusk,TX,Texas (ERCOT),23INR0286 | 27INR0488,Solar,502.9,Waiting in line: signed grid connection agreement,103%,52.5,82.5,84,no
+42,Juno 3 Solar,Juno Solar 3,Borden,TX,Texas (ERCOT),26INR0621,Solar,500.0,Waiting in line: signed grid connection agreement,102%,52.5,82.5,84,no
+43,Gardner Draw Solar,"RWE Clean Energy Development, LLC",Glasscock,TX,Texas (ERCOT),27INR0355,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,84,no
+44,Antila Solar,Antila Solar LLC,Borden,TX,Texas (ERCOT),27INR0500,Solar,500.0,Waiting in line: signed grid connection agreement,102%,52.5,82.5,84,no
+45,Silverton Solar,"NextEra Energy Interconnection Holdings, LLC",Briscoe,TX,Texas (ERCOT),28INR0023,Solar,410.0,Waiting in line: final grid engineering study,84%,52.5,82.5,84,no
+46,Elk Ridge Solar,"Boulevard Associates, LLC",Pecos,TX,Texas (ERCOT),28INR0114,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,84,no
+47,Star Of Texas Solar,"BOULEVARD ASSOCIATES, LLC",Pecos,TX,Texas (ERCOT),29INR0188,Solar,415.0,Waiting in line: final grid engineering study,85%,52.5,82.5,84,no
+48,MRR Solar,"BOULEVARD ASSOCIATES, LLC",Pecos,TX,Texas (ERCOT),30INR0053,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,84,no
+49,Springfield Solar,"BOULEVARD ASSOCIATES, LLC",Pecos,TX,Texas (ERCOT),30INR0058,Solar,400.0,Waiting in line: final grid engineering study,82%,52.5,82.5,84,no
+50,EC500W Project,,Chaves,NM,"West, outside California",LG-17-7-1,Wind,247.0,Waiting in line: signed grid connection agreement,81%,75.0,105.0,83,no
+51,LH252W,,Grant,NM,"West, outside California",LG-23-3-1,Wind,252.0,Waiting in line: signed grid connection agreement,83%,75.0,105.0,83,no
+52,GEN-2017-151,,Crosby,TX,Central US (SPP),GEN-2017-151,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,83,no
+53,GEN-2017-158,,Parmer,TX,Central US (SPP),GEN-2017-158 | GEN-2018-099,Wind,565.0,Waiting in line: signed grid connection agreement,186%,75.0,105.0,83,no
+54,Paint Rock Wind,"Orsted Onshore Development North America, LLC",Concho,TX,Texas (ERCOT),27INR0108,Wind,379.2,Waiting in line: final grid engineering study,125%,75.0,105.0,83,yes
+55,Mesteno Wind,"Mesteno Windpower, LLC",Starr,TX,Texas (ERCOT),16INR0081,Wind,201.6,Waiting in line: signed grid connection agreement,66%,75.0,105.0,82,no
+56,Loma Pinta Wind,Enerverse,La Salle,TX,Texas (ERCOT),16INR0112,Wind,197.0,Waiting in line: signed grid connection agreement,65%,75.0,105.0,82,no
+57,Coyote Wind,Coyote Wind,Scurry,TX,Texas (ERCOT),17INR0027b,Wind,242.6,Waiting in line: signed grid connection agreement,80%,75.0,105.0,82,no
+58,Maryneal Wind,"Maryneal Windpower, LLC",Nolan,TX,Texas (ERCOT),18INR0031,Wind,182.4,Waiting in line: signed grid connection agreement,60%,75.0,105.0,82,no
+59,WILDWIND,Wildcat Creek,Cooke,TX,Texas (ERCOT),20INR0033,Wind,180.1,Waiting in line: signed grid connection agreement,59%,75.0,105.0,82,no
+60,Water Valley Wind Energy,"Water Valley Wind Energy, LLC",Tom Green,TX,Texas (ERCOT),20INR0247,Wind,180.0,Waiting in line: signed grid connection agreement,59%,75.0,105.0,82,no
+61,Cascabel Wind 2,"Vaquero Wind Energy, LLC",Zapata,TX,Texas (ERCOT),23INR0561,Wind,197.8,Waiting in line: signed grid connection agreement,65%,75.0,105.0,82,no
+62,Rubicon Alpha Wind,"Throckmorton Wind, LLC",Haskell,TX,Texas (ERCOT),24INR0291,Wind,225.6,Waiting in line: signed grid connection agreement,74%,75.0,105.0,82,no
+63,Cascabel Wind 1,"Vaquero Wind Energy, LLC",Zapata,TX,Texas (ERCOT),24INR0424,Wind,197.8,Waiting in line: signed grid connection agreement,65%,75.0,105.0,82,no
+64,Corralitos Wind 1,"Vaquero Wind Energy, LLC",Zapata,TX,Texas (ERCOT),24INR0505,Wind,196.1,Waiting in line: signed grid connection agreement,65%,75.0,105.0,82,no
+65,Corralitos Wind 2,"Vaquero Wind Energy, LLC",Zapata,TX,Texas (ERCOT),24INR0506,Wind,195.4,Waiting in line: signed grid connection agreement,64%,75.0,105.0,82,no
+66,Willow Beach Wind,"Capital Wind, LLC",Brazoria,TX,Texas (ERCOT),25INR0494,Wind,202.3,Waiting in line: signed grid connection agreement,67%,75.0,105.0,82,no
+67,Buffalo Gap 2 Wind Repower,"Buffalo Gap Wind Farm 2, LLC",Nolan,TX,Texas (ERCOT),26INR0625,Wind,231.5,Waiting in line: signed grid connection agreement,76%,75.0,105.0,82,no
+68,Bullring Wind 3,"Halcon Wind, LLC",Starr,TX,Texas (ERCOT),28INR0039,Wind,190.4,Waiting in line: signed grid connection agreement,63%,75.0,105.0,82,no
+69,Gusty Windpower,"Gusty Windpower, LLC",Glasscock,TX,Texas (ERCOT),29INR0040,Wind,208.5,Waiting in line: signed grid connection agreement,69%,75.0,105.0,82,no
+70,BHBE G16,,Campbell,WY,"West, outside California",BHBE G16 | BHBE G17 | BHBE G18,Wind,590.0,Waiting in line: signed grid connection agreement,194%,75.0,105.0,81,no
+71,MPC03800,,Eddy,ND,Midwest (MISO),MPC03800 | MPC03900,Wind,401.2,Waiting in line: signed grid connection agreement,132%,75.0,105.0,81,no
+72,MPC04000,,Oliver,ND,Midwest (MISO),MPC04000 | J2080,Wind,500.0,Waiting in line: signed grid connection agreement,165%,75.0,105.0,81,no
+73,"Lucky Star Wind, LLC","Lucky Star Wind, LLC",Carbon,WY,"West, outside California",C1-35,Wind,500.0,Waiting in line: signed grid connection agreement,165%,75.0,105.0,81,no
+74,GEN-2016-071,,Kay,OK,Central US (SPP),GEN-2016-071 | GEN-2024-GR6,Wind,364.6,Waiting in line: signed grid connection agreement,120%,75.0,105.0,81,no
+75,GEN-2016-111,,Mcpherson,KS,Central US (SPP),GEN-2016-111 | GEN-2024-142,Wind,602.0,Waiting in line: signed grid connection agreement,198%,75.0,105.0,81,no
+76,GEN-2016-119,,Kingfisher,OK,Central US (SPP),GEN-2016-119,Wind,600.0,Waiting in line: signed grid connection agreement,198%,75.0,105.0,81,no
+77,GEN-2017-014,,Haakon,SD,Central US (SPP),GEN-2017-014,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,81,no
+78,GEN-2017-120,,Dickinson,KS,Central US (SPP),GEN-2017-120 | GEN-2018-013,Wind,334.1,Waiting in line: signed grid connection agreement,110%,75.0,105.0,81,no
+79,GEN-2017-133,,Oklahoma,OK,Central US (SPP),GEN-2017-133 | GEN-2017-134 | GEN-2017-137,Wind,745.0,Waiting in line: signed grid connection agreement,245%,75.0,105.0,81,no
+80,GEN-2017-175,,Turner,SD,Central US (SPP),GEN-2017-175,Wind,270.0,Waiting in line: signed grid connection agreement,89%,75.0,105.0,81,no
+81,GEN-2018-067,,Williams,ND,Central US (SPP),GEN-2018-067,Wind,255.0,Waiting in line: signed grid connection agreement,84%,75.0,105.0,81,no
+82,Grandview 5 W,Eon,Gray,TX,Texas (ERCOT),08INR0019b,Wind,249.0,Waiting in line: final grid engineering study,82%,75.0,105.0,81,no
+83,Tierra Blanca W,"RWE Renewables Development, LLC",Randall,TX,Texas (ERCOT),15INR0051,Wind,200.0,Waiting in line: final grid engineering study,66%,75.0,105.0,81,no
+84,Cattleman Wind A,"RWE Renewables Development, LLC",Castro,TX,Texas (ERCOT),16INR0014,Wind,201.6,Waiting in line: final grid engineering study,66%,75.0,105.0,81,no
+85,Cattleman Wind B,"RWE Renewables Development, LLC",Castro,TX,Texas (ERCOT),16INR0014b,Wind,201.6,Waiting in line: final grid engineering study,66%,75.0,105.0,81,no
+86,Vaquero 1 Wind,Enerverse,Zapata,TX,Texas (ERCOT),17INR0043,Wind,400.0,Waiting in line: final grid engineering study,132%,75.0,105.0,81,no
+87,Lutum Wind,RWE,Clay,TX,Texas (ERCOT),20INR0029,Wind,241.5,Waiting in line: final grid engineering study,80%,75.0,105.0,81,no
+88,Impala Flats Wind,"Antelope Flats Wind, LLC",Lynn,TX,Texas (ERCOT),20INR0233,Wind,282.0,Waiting in line: final grid engineering study,93%,75.0,105.0,81,no
+89,Pachanga Wind,Pachanga Wind LLC,Cameron,TX,Texas (ERCOT),22INR0480,Wind,300.0,Waiting in line: final grid engineering study,99%,75.0,105.0,81,no
+90,Campsey Wind,"RWE Clean Energy Development, LLC",Jack,TX,Texas (ERCOT),23INR0174,Wind,238.3,Waiting in line: final grid engineering study,78%,75.0,105.0,81,no
+91,White Oak King Wind,"KSK Wind Farm 1, LLC",King,TX,Texas (ERCOT),24INR0508,Wind,606.5,Waiting in line: final grid engineering study,200%,75.0,105.0,81,no
+92,Triangle Ranch Alpha,Triangle Ranch Wind,Cottle,TX,Texas (ERCOT),25INR0177,Wind,301.7,Waiting in line: final grid engineering study,99%,75.0,105.0,81,no
+93,WOE Gyp King Wind,"KSK Wind Farm 1, LLC",King,TX,Texas (ERCOT),25INR0401,Wind,304.3,Waiting in line: final grid engineering study,100%,75.0,105.0,81,no
+94,Wake Wind Energy,WAKE WIND ENERGY,Crosby,TX,Texas (ERCOT),26INR0647,Wind,251.3,Waiting in line: final grid engineering study,83%,75.0,105.0,81,no
+95,Supra Wind,"NextEra Energy Interconnection Holdings, LLC",Hardeman,TX,Texas (ERCOT),27INR0063,Wind,205.9,Waiting in line: final grid engineering study,68%,75.0,105.0,81,no
+96,Kingsmill Wind SLF,"Kingsmill Wind, LLC",Carson,TX,Texas (ERCOT),27INR0140,Wind,606.3,Waiting in line: final grid engineering study,200%,75.0,105.0,81,no
+97,Fivemile Wind,"Longview Wind, LLC",Dawson,TX,Texas (ERCOT),27INR0474,Wind,282.3,Waiting in line: final grid engineering study,93%,75.0,105.0,81,no
+98,Windecker,Windecker Energy LLC,Upton,TX,Texas (ERCOT),28INR0057,Wind,419.7,Waiting in line: final grid engineering study,138%,75.0,105.0,81,no
+99,Mirando Valley Wind,ACE DevCo NC LLC,Jim Hogg,TX,Texas (ERCOT),28INR0072,Wind,478.7,Waiting in line: final grid engineering study,158%,75.0,105.0,81,no
+100,Axis Ridge Wind,"Axis Ridge Wind, LLC",Sutton,TX,Texas (ERCOT),28INR0113,Wind,750.0,Waiting in line: final grid engineering study,247%,75.0,105.0,81,no
+101,Sanders Hollow Energy Center,"Sanders Hollow Energy Center, LLC",Dickens,TX,Texas (ERCOT),28INR0169,Wind,292.6,Waiting in line: final grid engineering study,96%,75.0,105.0,81,no
+102,Prairie Power Wind,"Prairie Power Wind, LLC",Mitchell,TX,Texas (ERCOT),28INR0307,Wind,302.9,Waiting in line: final grid engineering study,100%,75.0,105.0,81,no
+103,Barranca Wind 1,"Barranca Wind Energy, LLC",Jim Hogg,TX,Texas (ERCOT),28INR0375,Wind,300.9,Waiting in line: final grid engineering study,99%,75.0,105.0,81,no
+104,Barranca Wind 2,"Barranca Wind Energy, LLC",Jim Hogg,TX,Texas (ERCOT),28INR0376,Wind,298.6,Waiting in line: final grid engineering study,98%,75.0,105.0,81,no
+105,Max 4 Wind,"Lake Creek Wind, LLC",Haskell,TX,Texas (ERCOT),28INR0408,Wind,352.6,Waiting in line: final grid engineering study,116%,75.0,105.0,81,no
+106,Alkali Creek Wind,"Alkali Creek Wind, LLC",Fisher,TX,Texas (ERCOT),28INR0415,Wind,474.4,Waiting in line: final grid engineering study,156%,75.0,105.0,81,no
+107,Viento Bravo Wind,"Webb Wind, LLC",Jim Hogg,TX,Texas (ERCOT),28INR0434,Wind,366.5,Waiting in line: final grid engineering study,121%,75.0,105.0,81,no
+108,"Vista Bluff Wind I ""Alternate POI""","Vista Bluff Windpower, LLC",Upton,TX,Texas (ERCOT),28INR0446 | 28INR0447,Wind,580.8,Waiting in line: final grid engineering study,191%,75.0,105.0,81,no
+109,Alkali Creek Wind 2,"Alkali Creek Wind, LLC",Fisher,TX,Texas (ERCOT),28INR0478,Wind,250.3,Waiting in line: final grid engineering study,82%,75.0,105.0,81,no
+110,Columbine Wind,Wilson Wind LLC,Gonzales,TX,Texas (ERCOT),29INR0063,Wind,295.0,Waiting in line: final grid engineering study,97%,75.0,105.0,81,no
+111,Estrella Dorada Wind,"Estrella Dorada Wind Farm, LLC",Duval,TX,Texas (ERCOT),29INR0146,Wind,306.0,Waiting in line: final grid engineering study,101%,75.0,105.0,81,no
+112,GEN-2018-003,,Bowie,TX,Central US (SPP),GEN-2018-003 | GEN-2020-054 | GEN-2023-135 | GEN-2024-025 | GEN-2024-241,Solar,900.0,Waiting in line: signed grid connection agreement,184%,52.5,82.5,81,no
+113,GEN-2018-015,,Cottle,TX,Central US (SPP),GEN-2018-015 | GEN-2024-317,Solar,552.0,Waiting in line: signed grid connection agreement,113%,52.5,82.5,81,no
+114,GEN-2023-GR5,,Lamb,TX,Central US (SPP),GEN-2023-GR5 | GEN-2024-063,Solar,406.0,Waiting in line: signed grid connection agreement,83%,52.5,82.5,81,no
+115,BHBE G13,,Custer,NE,"West, outside California",BHBE G13,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,80,no
+116,Pacific Wind Development,Pacific Wind Development,Torrance Cty,NM,"West, outside California",IA-PNM-2016-02,Wind,402.0,Waiting in line: signed grid connection agreement,132%,75.0,105.0,80,no
+117,GEN-2016-075,,Holt,NE,Central US (SPP),GEN-2016-075 | GEN-2017-144,Wind,250.0,Waiting in line: signed grid connection agreement,82%,75.0,105.0,80,no
+118,GEN-2017-201,,Wayne,NE,Central US (SPP),GEN-2017-201,Wind,250.0,Waiting in line: signed grid connection agreement,82%,75.0,105.0,80,no
+119,Pine Forest Solar,"Pine Forest Solar I, LLC",Hopkins,TX,Texas (ERCOT),20INR0203,Solar,301.5,Waiting in line: signed grid connection agreement,62%,52.5,82.5,80,no
+120,Adamstown Solar,"Adams Creek Solar Project, LLC",Wichita,TX,Texas (ERCOT),21INR0210,Solar,250.9,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+121,Samson Solar 1,Samson Solar Energy LLC,Lamar,TX,Texas (ERCOT),21INR0221,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+122,Tulsita Solar,Ray Ranch Solar LLC,Goliad,TX,Texas (ERCOT),21INR0223,Solar,256.2,Waiting in line: signed grid connection agreement,52%,52.5,82.5,80,no
+123,Greyhound Solar,"Rockhound Solar 2, LLC dba ""Greyhound Solar""",Ector,TX,Texas (ERCOT),21INR0268,Solar,335.4,Waiting in line: signed grid connection agreement,68%,52.5,82.5,80,no
+124,Space City Solar,"Apollo Solar Ranch, LLC",Wharton,TX,Texas (ERCOT),21INR0341,Solar,366.0,Waiting in line: signed grid connection agreement,75%,52.5,82.5,80,no
+125,Pecan Prairie North,CG Leon County II LLC,Leon,TX,Texas (ERCOT),21INR0428,Solar,321.3,Waiting in line: signed grid connection agreement,66%,52.5,82.5,80,no
+126,Samson Solar 3,Samson Solar Energy III LLC,Lamar,TX,Texas (ERCOT),21INR0491,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+127,Delilah Solar 1,Delilah Solar Energy LLC,Lamar,TX,Texas (ERCOT),22INR0202,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,80,no
+128,Delilah Solar 2,Delilah Solar Energy II LLC,Lamar,TX,Texas (ERCOT),22INR0203,Solar,317.6,Waiting in line: signed grid connection agreement,65%,52.5,82.5,80,no
+129,TORMES SOLAR,BDPU SOLAR TORMES LLC,Navarro,TX,Texas (ERCOT),22INR0437,Solar,356.6,Waiting in line: signed grid connection agreement,73%,52.5,82.5,80,no
+130,Tanglewood Solar,"Brazoria Solar, LLC",Brazoria,TX,Texas (ERCOT),23INR0054,Solar,251.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+131,Chillingham Solar,Chillingham Solar LLC,Bell,TX,Texas (ERCOT),23INR0070,Solar,352.4,Waiting in line: signed grid connection agreement,72%,52.5,82.5,80,no
+132,Cantaloupe Solar,"Saragosa Del Sol Energy, LLC",Reeves,TX,Texas (ERCOT),23INR0116,Solar,307.0,Waiting in line: signed grid connection agreement,63%,52.5,82.5,80,no
+133,Blevins Solar,"Blevins Solar, LLC",Falls,TX,Texas (ERCOT),23INR0118,Solar,271.6,Waiting in line: signed grid connection agreement,55%,52.5,82.5,80,no
+134,Tiger Solar,"Vaca Del Sol, LLC",Jones,TX,Texas (ERCOT),23INR0244,Solar,250.9,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+135,Sypert Branch Solar Project,Sypert Branch Solar LLC,Milam,TX,Texas (ERCOT),24INR0070,Solar,261.1,Waiting in line: signed grid connection agreement,53%,52.5,82.5,80,no
+136,Miranda Solar Project,"Miranda Solar Project, LLC",Mcmullen,TX,Texas (ERCOT),24INR0161,Solar,261.4,Waiting in line: signed grid connection agreement,53%,52.5,82.5,80,no
+137,OCI SunRoper,OCI SunRoper LLC,Wharton,TX,Texas (ERCOT),24INR0167,Solar,265.1,Waiting in line: signed grid connection agreement,54%,52.5,82.5,80,no
+138,Cibeles Solar,"Elawan Cibeles Solar, LLC",Mclennan,TX,Texas (ERCOT),24INR0356,Solar,252.3,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+139,SanPat Solar II,"CGRP 04, LLC",San Patricio,TX,Texas (ERCOT),25INR0052,Solar,256.2,Waiting in line: signed grid connection agreement,52%,52.5,82.5,80,no
+140,SanPat Solar I,Padre Solar LLC,San Patricio,TX,Texas (ERCOT),25INR0081,Solar,308.9,Waiting in line: signed grid connection agreement,63%,52.5,82.5,80,no
+141,August Draw Solar,"August Draw Solar Holdings, LLC",Reeves,TX,Texas (ERCOT),25INR0112,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+142,Lucy Solar,Concho County Solar 1 LLC,Concho,TX,Texas (ERCOT),25INR0225,Solar,352.2,Waiting in line: signed grid connection agreement,72%,52.5,82.5,80,no
+143,Uva Creek Solar,"Grape Creek Solar, LLC",Borden,TX,Texas (ERCOT),26INR0359,Solar,302.2,Waiting in line: signed grid connection agreement,62%,52.5,82.5,80,no
+144,Three Canes Solar SLF,Three Canes Solar LLC,Navarro,TX,Texas (ERCOT),26INR0543,Solar,333.0,Waiting in line: signed grid connection agreement,68%,52.5,82.5,80,no
+145,Sugaree Solar,Sugaree Solar LLC,Maverick,TX,Texas (ERCOT),27INR0389,Solar,251.4,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+146,Clairemont Solar 1,Clairemont Solar LLC,Kent,TX,Texas (ERCOT),27INR0435,Solar,251.8,Waiting in line: signed grid connection agreement,51%,52.5,82.5,80,no
+147,Funston Solar,Funston Solar LLC,Jones,TX,Texas (ERCOT),29INR0015,Solar,351.1,Waiting in line: signed grid connection agreement,72%,52.5,82.5,80,no
+148,Firelands Wind,,Erie,OH,Mid-Atlantic / Ohio Valley (PJM),AC2-103,Wind,297.7,Waiting in line: signed grid connection agreement,98%,75.0,105.0,79,no
+149,GEN-2025-GR1,,Grant,OK,Central US (SPP),GEN-2025-GR1,Wind,300.0,Waiting in line: grid connection agreement being finalized,99%,75.0,105.0,79,no
+150,J1849,,Hardin,TX,Midwest (MISO),J1849 | J2071,Solar,398.0,Waiting in line: grid connection agreement being finalized,81%,52.5,82.5,79,no
+151,GEN-2017-061,,Mayes,OK,Central US (SPP),GEN-2017-061 | GEN-2017-073 | GEN-2017-074 | GEN-2017-077 | GEN-2020-092 | GEN-2021-047,Solar,721.2,Waiting in line: signed grid connection agreement,147%,52.5,82.5,79,no
+152,GEN-2017-092,,Muskogee,OK,Central US (SPP),GEN-2017-092 | GEN-2021-053 | GEN-2024-268,Solar,890.0,Waiting in line: signed grid connection agreement,182%,52.5,82.5,79,no
+153,GEN-2017-140,,Wagoner,OK,Central US (SPP),GEN-2017-140 | GEN-2017-141,Solar,401.7,Waiting in line: signed grid connection agreement,82%,52.5,82.5,79,no
+154,GEN-2017-171,,Comanche,OK,Central US (SPP),GEN-2017-171 | GEN-2017-172 | GEN-2017-173 | GEN-2020-087,Solar,750.0,Waiting in line: signed grid connection agreement,153%,52.5,82.5,79,no
+155,GEN-2017-195,,Johnson,KS,Central US (SPP),GEN-2017-195,Solar,500.4,Waiting in line: signed grid connection agreement,102%,52.5,82.5,79,no
+156,GEN-2017-220,,Sedgwick,KS,Central US (SPP),GEN-2017-220 | GEN-2017-226 | GEN-2018-057 | GEN-2022-004 | GEN-2023-034,Solar,769.6,Waiting in line: signed grid connection agreement,157%,52.5,82.5,79,no
+157,GEN-2021-023,,Grant,KS,Central US (SPP),GEN-2021-023 | GEN-2021-035,Solar,419.2,Waiting in line: signed grid connection agreement,86%,52.5,82.5,79,no
+158,Horseshoe Bend Solar,Clenera,Brown,TX,Texas (ERCOT),19INR0075,Solar,301.1,Waiting in line: final grid engineering study,61%,52.5,82.5,79,yes
+159,Green Holly Solar,Copenhagen Infrastructure Partners Fund IV,Dawson,TX,Texas (ERCOT),21INR0021,Solar,413.6,Waiting in line: grid connection agreement being finalized,84%,52.5,82.5,79,yes
+160,Tabor Solar,Quanah Solar LLC,Hardeman,TX,Texas (ERCOT),23INR0055,Solar,506.4,Waiting in line: final grid engineering study,103%,52.5,82.5,79,no
+161,Poco Trail Solar,"Eastern Trail Solar Center, LLC",Wilbarger,TX,Texas (ERCOT),23INR0273,Solar,438.8,Waiting in line: final grid engineering study,90%,52.5,82.5,79,no
+162,Rocking X Solar,7100 Tin Top LLC,Parker,TX,Texas (ERCOT),23INR0368,Solar,602.2,Waiting in line: final grid engineering study,123%,52.5,82.5,79,no
+163,Grasshopper Solar,Grasshopper Solar LLC,Haskell,TX,Texas (ERCOT),24INR0125,Solar,407.7,Waiting in line: final grid engineering study,83%,52.5,82.5,79,no
+164,Shadow Ranch Solar,LectricWind LLC,Upton,TX,Texas (ERCOT),25INR0207,Solar,807.6,Waiting in line: final grid engineering study,165%,52.5,82.5,79,no
+165,Jenna Eco-Electric Solar,"Clean Energy Holdings, LLC",Fisher,TX,Texas (ERCOT),25INR0632,Solar,576.3,Waiting in line: final grid engineering study,118%,52.5,82.5,79,no
+166,Titus Sienta Solar,"Sol Sienta Solar, LLC",Pecos,TX,Texas (ERCOT),26INR0230,Solar,501.9,Waiting in line: final grid engineering study,102%,52.5,82.5,79,no
+167,Scorpius Solar,Ben Milam Solar 4,Milam,TX,Texas (ERCOT),26INR0609,Solar,600.0,Waiting in line: final grid engineering study,122%,52.5,82.5,79,no
+168,Aquila Solar,Ben Milam Solar 5,Milam,TX,Texas (ERCOT),26INR0635,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,79,no
+169,Bluefox Solar 1,Industrial November Project LLC,Matagorda,TX,Texas (ERCOT),27INR0141,Solar,402.6,Waiting in line: final grid engineering study,82%,52.5,82.5,79,no
+170,Draco Solar,Draco Solar LLC,Borden,TX,Texas (ERCOT),27INR0499,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,79,no
+171,Tetris Solar,NextEra Energy Interconnection Holdings LLC,Zapata,TX,Texas (ERCOT),28INR0005,Solar,359.0,Waiting in line: final grid engineering study,73%,52.5,82.5,79,no
+172,Muy Grande Solar,"ACE DevCo NC, LLC",Starr,TX,Texas (ERCOT),28INR0043,Solar,502.7,Waiting in line: final grid engineering study,102%,52.5,82.5,79,no
+173,Verily Solar (FKA Cuello De Cuero Solar),"NextEra Energy Interconnection Holdings, LLC",Brooks,TX,Texas (ERCOT),28INR0059,Solar,261.0,Waiting in line: final grid engineering study,53%,52.5,82.5,79,no
+174,Bluefox Solar 2,Industrial November Project LLC,Matagorda,TX,Texas (ERCOT),28INR0063,Solar,401.8,Waiting in line: final grid engineering study,82%,52.5,82.5,79,no
+175,Indigo Solar 3,Indigo solar 3,Fisher,TX,Texas (ERCOT),28INR0067,Solar,800.0,Waiting in line: final grid engineering study,163%,52.5,82.5,79,no
+176,Barkley Creek Solar,"174 Power Global Properties, LLC",Lampasas,TX,Texas (ERCOT),28INR0324,Solar,312.4,Waiting in line: final grid engineering study,64%,52.5,82.5,79,no
+177,Cattle Drive Solar,"NextEra Energy Interconnection Holdings, LLC",Crane,TX,Texas (ERCOT),29INR0013,Solar,307.0,Waiting in line: final grid engineering study,63%,52.5,82.5,79,no
+178,Infinium Solar,"Jackalope Flats Solar, LLC",Howard,TX,Texas (ERCOT),29INR0019,Solar,401.6,Waiting in line: final grid engineering study,82%,52.5,82.5,79,no
+179,Big Field Solar,Big Field Solar Energy LLC,Wilbarger,TX,Texas (ERCOT),29INR0148,Solar,506.2,Waiting in line: final grid engineering study,103%,52.5,82.5,79,no
+180,Cazadores Solar,OCI Energy LLC,Duval,TX,Texas (ERCOT),29INR0160,Solar,301.6,Waiting in line: final grid engineering study,62%,52.5,82.5,79,no
+181,Gridline Solar,Big Lake Ranch LLC,Crockett,TX,Texas (ERCOT),29INR0184,Solar,400.0,Waiting in line: final grid engineering study,82%,52.5,82.5,79,no
+182,Spurland Solar I,Spurland Solar I | Spurland Solar II,Dickens,TX,Texas (ERCOT),29INR0192 | 29INR0195,Solar,503.7,Waiting in line: final grid engineering study,103%,52.5,82.5,79,no
+183,Velveteen Solar I,"Velveteen Solar II, LLC | Velveteen Solar, LLC",Baylor,TX,Texas (ERCOT),29INR0198 | 29INR0225,Solar,815.0,Waiting in line: final grid engineering study,166%,52.5,82.5,79,no
+184,LA300W,,Luna,NM,"West, outside California",LG 22-3-6,Wind,300.0,Waiting in line: final grid engineering study,99%,75.0,105.0,78,no
+185,J1485,,Deuel,SD,Midwest (MISO),J1485,Wind,250.0,Waiting in line: grid connection agreement being finalized,82%,75.0,105.0,78,no
+186,J982,,Dickinson,IA,Midwest (MISO),J982,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,78,no
+187,GEN-2017-222,,Crawford,IA,Central US (SPP),GEN-2017-222 | GEN-2018-074,Wind,252.0,Waiting in line: signed grid connection agreement,83%,75.0,105.0,78,no
+188,Mammoth Central Energy Center,,Pulaski,IN,Mid-Atlantic / Ohio Valley (PJM),AF2-132 | AG1-302,Solar,600.0,Waiting in line: signed grid connection agreement,122%,52.5,82.5,78,no
+189,GEN-2018-131,,Pierce,NE,Central US (SPP),GEN-2018-131 | GEN-2018-132,Solar,423.0,Waiting in line: signed grid connection agreement,86%,52.5,82.5,78,no
+190,GI-53,,Nodaway,MO,Southeast,GI-53 | GI-61,Wind,468.0,Waiting in line: signed grid connection agreement,154%,75.0,105.0,77,no
+191,GI-95,,Dade,MO,Southeast,GI-95,Wind,247.0,Waiting in line: signed grid connection agreement,81%,75.0,105.0,77,no
+192,CIMARRON WIND,,Tecate,MX,California (CAISO),1660,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,77,no
+193,J1025,,Knox,MO,Midwest (MISO),J1025,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,77,no
+194,J1026,,Audrain,MO,Midwest (MISO),J1026 | J3929,Wind,650.0,Waiting in line: signed grid connection agreement,214%,75.0,105.0,77,no
+195,J1040,,Mcintosh,ND,Midwest (MISO),J1040,Wind,250.0,Under construction,82%,75.0,105.0,77,no
+196,J476,,Atchison,MO,Midwest (MISO),J476,Wind,246.0,Waiting in line: signed grid connection agreement,81%,75.0,105.0,77,no
+197,Panther Grove 2,,Woodford,IL,Mid-Atlantic / Ohio Valley (PJM),AE1-113 | AE2-255,Wind,400.0,Waiting in line: signed grid connection agreement,132%,75.0,105.0,77,no
+198,Panther Grove Wind,,Woodford,IL,Mid-Atlantic / Ohio Valley (PJM),AE1-163 | AE2-281,Wind,400.0,Waiting in line: signed grid connection agreement,132%,75.0,105.0,77,no
+199,GEN-2015-066,,Pawnee,OK,Central US (SPP),GEN-2015-066,Wind,220.0,Waiting in line: signed grid connection agreement,72%,75.0,105.0,77,no
+200,GEN-2016-004,,Oliver,ND,Central US (SPP),GEN-2016-004,Wind,202.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,77,no
+201,GEN-2017-214,,Ward,ND,Central US (SPP),GEN-2017-214 | GEN-2017-215 | GEN-2025-GR5,Wind,207.7,Waiting in line: signed grid connection agreement,68%,75.0,105.0,77,no
+202,Stella 2 Wind,Eon,Kenedy,TX,Texas (ERCOT),16INR0012,Wind,201.0,Waiting in line: final grid engineering study,66%,75.0,105.0,77,no
+203,Giddings Wind,Pioneer Natural Resources,Upton,TX,Texas (ERCOT),21INR0006,Wind,240.0,Waiting in line: final grid engineering study,79%,75.0,105.0,77,no
+204,Triangle Ranch Bravo,Triangle Ranch Wind,Cottle,TX,Texas (ERCOT),25INR0178,Wind,200.2,Waiting in line: final grid engineering study,66%,75.0,105.0,77,no
+205,Los Vientos IB Repower,"Los Vientos Windpower IB, LLC",Willacy,TX,Texas (ERCOT),26INR0507,Wind,184.8,Waiting in line: final grid engineering study,61%,75.0,105.0,77,no
+206,Mesquite Creek Windpower Repower,Mesquite Creek Wind LLC,Dawson,TX,Texas (ERCOT),27INR0501,Wind,212.9,Waiting in line: final grid engineering study,70%,75.0,105.0,77,no
+207,Guajillo Wind,Guajillo Wind LLC,Duval,TX,Texas (ERCOT),28INR0168,Wind,202.4,Waiting in line: final grid engineering study,67%,75.0,105.0,77,no
+208,Pasture Rose Wind,"Pasture Rose, LLC",Falls,TX,Texas (ERCOT),28INR0262,Wind,198.7,Waiting in line: final grid engineering study,66%,75.0,105.0,77,no
+209,Wood Fern Wind,Wood Fern Wind LLC,Van Zandt,TX,Texas (ERCOT),28INR0274,Wind,197.3,Waiting in line: final grid engineering study,65%,75.0,105.0,77,no
+210,Barrosos Creek Wind 3,"Cascabel Wind Energy, LLC",Zapata,TX,Texas (ERCOT),28INR0337,Wind,197.8,Waiting in line: final grid engineering study,65%,75.0,105.0,77,no
+211,Barrosos Creek Wind 4,"Cascabel Wind Energy, LLC",Zapata,TX,Texas (ERCOT),28INR0338,Wind,197.8,Waiting in line: final grid engineering study,65%,75.0,105.0,77,no
+212,Corralitos Wind 3,"Las Crestas Wind Energy, LLC",Zapata,TX,Texas (ERCOT),28INR0339,Wind,196.1,Waiting in line: final grid engineering study,65%,75.0,105.0,77,no
+213,Corralitos Wind 4,"Las Crestas Wind Energy, LLC",Zapata,TX,Texas (ERCOT),28INR0340,Wind,195.4,Waiting in line: final grid engineering study,64%,75.0,105.0,77,no
+214,Sagebrush Wind,"ACE DevCo NC, LLC",Nolan,TX,Texas (ERCOT),28INR0386,Wind,200.3,Waiting in line: final grid engineering study,66%,75.0,105.0,77,no
+215,Rattlesnake Gap Wind SLF,ET Fuels US Inc.,Howard,TX,Texas (ERCOT),29INR0177,Wind,200.0,Waiting in line: final grid engineering study,66%,75.0,105.0,77,no
+216,AW300S,,Sierra,NM,"West, outside California",LG-23-3-2,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,77,no
+217,Company IF,,Humboldt,NV,"West, outside California",Company IF | Company IG,Solar,500.0,Waiting in line: signed grid connection agreement,102%,52.5,82.5,77,no
+218,Oak Run Solar Project,,Madison,OH,Mid-Atlantic / Ohio Valley (PJM),AG1-125 | AG1-126,Solar,800.0,Waiting in line: signed grid connection agreement,163%,52.5,82.5,77,no
+219,GEN-2017-239,,Yoakum,TX,Central US (SPP),GEN-2017-239,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,77,no
+220,GI-123,,Craig,OK,Southeast,GI-123,Wind,300.0,Waiting in line: final grid engineering study,99%,75.0,105.0,76,no
+221,Third Planet Wind,Third Planet Wind,Campbell,SD,"West, outside California",BHBE G7,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+222,C2-106,,Lincoln,WY,"West, outside California",C2-106 | PIS089,Wind,800.0,Waiting in line: final grid engineering study,264%,75.0,105.0,76,no
+223,Headwaters Wind Farm III,,Randolph,IN,Mid-Atlantic / Ohio Valley (PJM),AE1-209 | AE1-210,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+224,Blackford Wind Energy Project,,Blackford,IN,Mid-Atlantic / Ohio Valley (PJM),AF1-202,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+225,Prairie Creek Wind,"Prairie Creek Wind, LLC",Blackford,IN,Mid-Atlantic / Ohio Valley (PJM),AF2-388,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+226,Warren County Wind Energy Center,,Nan,IN,Mid-Atlantic / Ohio Valley (PJM),AG1-237,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+227,5RSC-2024-18,,Prowers,CO,"West, outside California",5RSC-2024-18 | GI-2006-1h | GI-DISIS-2021-07,Wind,566.5,Waiting in line: signed grid connection agreement,187%,75.0,105.0,76,no
+228,GI-2006-1g,,Logan,CO,"West, outside California",GI-2006-1g | GI-2006-2 | GI-2012-3 | GI-2014-4 | GI-2025-05,Wind,795.0,Waiting in line: signed grid connection agreement,262%,75.0,105.0,76,no
+229,GEN-2016-074,,Custer,NE,Central US (SPP),GEN-2016-074,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+230,GEN-2022-161,,Butler,KS,Central US (SPP),GEN-2022-161,Wind,360.0,Waiting in line: final grid engineering study,119%,75.0,105.0,76,no
+231,GEN-2023-088,,Okfuskee,OK,Central US (SPP),GEN-2023-088 | GEN-2024-236,Wind,358.4,Waiting in line: final grid engineering study,118%,75.0,105.0,76,no
+232,GEN-2023-172,,Kearny,KS,Central US (SPP),GEN-2023-172 | GEN-2023-173,Wind,300.0,Waiting in line: final grid engineering study,99%,75.0,105.0,76,no
+233,Crocker Wind,Crocker Wind,Clark,SD,"West, outside California",GI-0901,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,76,no
+234,J1215,,Arkansas,AR,Midwest (MISO),J1215 | J2010 | J2759 | J2986 | J3457,Solar,740.0,Waiting in line: signed grid connection agreement,151%,52.5,82.5,76,no
+235,J1444,,Linn,IA,Midwest (MISO),J1444 | J1889 | J2268 | J504,Solar,710.0,Waiting in line: signed grid connection agreement,145%,52.5,82.5,76,no
+236,J1748,,Desoto,MS,Midwest (MISO),J1748 | J2047 | J2602 | J962,Solar,649.0,Waiting in line: signed grid connection agreement,132%,52.5,82.5,76,no
+237,423,,Clay,MS,Southeast,423 | 466,Solar,400.0,Waiting in line: signed grid connection agreement,82%,52.5,82.5,76,no
+238,Big Star Solar,"RWE Solar Development, LLC",Bastrop,TX,Texas (ERCOT),21INR0413,Solar,203.1,Waiting in line: signed grid connection agreement,41%,52.5,82.5,76,no
+239,J1365,,Tama,IA,Midwest (MISO),J1365 | J2031,Wind,269.4,Waiting in line: grid connection agreement being finalized,89%,75.0,105.0,75,no
+240,J1483,,Iowa,WI,Midwest (MISO),J1483 | J1781 | J1931,Wind,439.0,Waiting in line: signed grid connection agreement,145%,75.0,105.0,75,no
+241,J1773,,Lafayette,WI,Midwest (MISO),J1773,Wind,300.0,Waiting in line: signed grid connection agreement,99%,75.0,105.0,75,no
+242,GEN-2021-057,,Antelope,NE,Central US (SPP),GEN-2021-057,Wind,300.0,Waiting in line: final grid engineering study,99%,75.0,105.0,75,no
+243,Monte Cristo 1 Wind,Terra-Gen,Hidalgo,TX,Texas (ERCOT),19INR0054,Wind,234.5,Waiting in line: signed grid connection agreement,77%,75.0,105.0,75,no
+244,"DUTC bn, LLC","DUTC bn, LLC",Converse,WY,"West, outside California",CLPT G18,Solar,255.0,Waiting in line: signed grid connection agreement,52%,52.5,82.5,75,no
+245,MPC03600,,Richland,ND,Midwest (MISO),MPC03600 | MPC03700,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,75,no
+246,J1027,,Pike,IN,Midwest (MISO),J1027 | J1028 | J1393,Solar,430.0,Waiting in line: signed grid connection agreement,88%,52.5,82.5,75,no
+247,J1058,,Lake,IN,Midwest (MISO),J1058 | J1386,Solar,400.0,Waiting in line: signed grid connection agreement,82%,52.5,82.5,75,no
+248,J1076,,St. James Parish,LA,Midwest (MISO),J1076 | J1158 | J1431 | J1542,Solar,605.0,Waiting in line: signed grid connection agreement,123%,52.5,82.5,75,no
+249,J1145,,Callaway,MO,Midwest (MISO),J1145 | J1836,Solar,550.0,Waiting in line: signed grid connection agreement,112%,52.5,82.5,75,no
+250,J1184,,Washington Parish,LA,Midwest (MISO),J1184 | J1361 | J1564 | J1576 | J2643,Solar,550.0,Waiting in line: signed grid connection agreement,112%,52.5,82.5,75,no
+251,J1308,,Posey,IN,Midwest (MISO),J1308 | J2970,Solar,550.0,Waiting in line: signed grid connection agreement,112%,52.5,82.5,75,no
+252,J1381,,Howard,IN,Midwest (MISO),J1381 | J1481,Solar,400.0,Waiting in line: signed grid connection agreement,82%,52.5,82.5,75,no
+253,J1482,,White,IN,Midwest (MISO),J1482 | J1772 | J2353 | J3168,Solar,660.0,Waiting in line: signed grid connection agreement,135%,52.5,82.5,75,no
+254,J1561,,Acadia Parish,LA,Midwest (MISO),J1561 | J1794 | J1795 | J1904 | J2249 | J2715,Solar,689.0,Waiting in line: signed grid connection agreement,140%,52.5,82.5,75,no
+255,Macadamia Solar,,Washington,NC,Mid-Atlantic / Ohio Valley (PJM),AD1-074 | AD1-075 | AD1-076,Solar,484.0,Waiting in line: signed grid connection agreement,99%,52.5,82.5,75,no
+256,GI-2009-5,,Alamosa,CO,"West, outside California",GI-2009-5 | GI-2009-6 | GI-2010-11 | GI-2010-4 | GI-2014-13 | GI-2014-14 | GI-2024-17 | GI-CS-2025-09,Solar,514.1,Waiting in line: signed grid connection agreement,105%,52.5,82.5,75,no
+257,GEN-2016-167,,Caddo Parish,LA,Central US (SPP),GEN-2016-167 | GEN-2017-057 | GEN-2018-050 | GEN-2018-106,Solar,511.0,Waiting in line: signed grid connection agreement,104%,52.5,82.5,75,no
+258,GEN-2017-023,,Choctaw,OK,Central US (SPP),GEN-2017-023 | GEN-2024-083,Solar,335.0,Waiting in line: signed grid connection agreement,68%,52.5,82.5,75,no
+259,GEN-2017-108,,Henry,MO,Central US (SPP),GEN-2017-108 | GEN-2024-289,Solar,750.0,Waiting in line: signed grid connection agreement,153%,52.5,82.5,75,no
+260,GEN-2021-018,,Noble,OK,Central US (SPP),GEN-2021-018 | GEN-2024-056,Solar,351.0,Waiting in line: signed grid connection agreement,72%,52.5,82.5,75,no
+261,Morada Del Sol Solar,First Solar,Upton,TX,Texas (ERCOT),16INR0097,Solar,245.0,Waiting in line: final grid engineering study,50%,52.5,82.5,75,no
+262,Arroyo Del Bisonte Solar,Sunchase Power,Wharton,TX,Texas (ERCOT),21INR0015,Solar,300.0,Waiting in line: final grid engineering study,61%,52.5,82.5,75,no
+263,Mountaineer Solar,Mustang Mountaineer Solar LLC,Brown,TX,Texas (ERCOT),21INR0294,Solar,332.1,Waiting in line: final grid engineering study,68%,52.5,82.5,75,no
+264,Sandow Solar,"Sandow Lakes Ranch Solar I, LLC",Milam,TX,Texas (ERCOT),22INR0350,Solar,287.2,Waiting in line: final grid engineering study,59%,52.5,82.5,75,no
+265,MARATUA SOLAR,"BDPU Solar Maratua, LLC",Grimes,TX,Texas (ERCOT),22INR0471 | 28INR0426,Solar,347.9,Waiting in line: final grid engineering study,71%,52.5,82.5,75,no
+266,Sierra Madre Solar,Sierra Madre Solar LLC,Zapata,TX,Texas (ERCOT),23INR0006,Solar,255.2,Waiting in line: final grid engineering study,52%,52.5,82.5,75,no
+267,Earthwise Solar,Quanah Solar 2,Hardeman,TX,Texas (ERCOT),23INR0233,Solar,370.5,Waiting in line: final grid engineering study,76%,52.5,82.5,75,no
+268,Sombrero Solar,Aurora Solar LLC,Schleicher,TX,Texas (ERCOT),25INR0057,Solar,351.9,Waiting in line: final grid engineering study,72%,52.5,82.5,75,no
+269,HyFuels Green Lake Solar,HyFuels Green Lake Solar LLC,Victoria,TX,Texas (ERCOT),26INR0019,Solar,347.0,Waiting in line: final grid engineering study,71%,52.5,82.5,75,no
+270,HyFuels Calhoun Solar,HyFuels Green Lake Solar LLC,Victoria,TX,Texas (ERCOT),26INR0028,Solar,301.8,Waiting in line: final grid engineering study,62%,52.5,82.5,75,no
+271,Santa Garcias Solar,Oxy Renewable Energy LLC,Kleberg,TX,Texas (ERCOT),26INR0143,Solar,265.0,Waiting in line: final grid engineering study,54%,52.5,82.5,75,no
+272,Lazy U Solar 1,Lazy U Solar 1,Hardeman,TX,Texas (ERCOT),26INR0171,Solar,252.0,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+273,Lazy U Solar 2,Lazy U Solar 2,Hardeman,TX,Texas (ERCOT),26INR0172,Solar,252.0,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+274,Titus Low Carbon Ventures Solar 1,"Vaquero Solar, LLC",San Patricio,TX,Texas (ERCOT),26INR0211,Solar,338.0,Waiting in line: final grid engineering study,69%,52.5,82.5,75,no
+275,Whitewright Solar 2,"SunWR, LLC",Grayson,TX,Texas (ERCOT),26INR0300,Solar,301.7,Waiting in line: final grid engineering study,62%,52.5,82.5,75,no
+276,Twinwood Solar 1,"Twinwood PV1, LLC",Waller,TX,Texas (ERCOT),26INR0425,Solar,358.1,Waiting in line: final grid engineering study,73%,52.5,82.5,75,no
+277,Themisto Solar,"Themisto Solar, LLC",Nolan,TX,Texas (ERCOT),27INR0218,Solar,301.2,Waiting in line: final grid engineering study,61%,52.5,82.5,75,no
+278,Roboman Solar,"Roboman Solar, LLC",Coke,TX,Texas (ERCOT),27INR0453,Solar,272.6,Waiting in line: final grid engineering study,56%,52.5,82.5,75,no
+279,Black Hawk Solar,"ACE DevCo NC, LLC",Duval,TX,Texas (ERCOT),28INR0040,Solar,251.3,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+280,Bayou Creek Solar,Ferrovial Energy US 1,San Patricio,TX,Texas (ERCOT),28INR0223,Solar,255.5,Waiting in line: final grid engineering study,52%,52.5,82.5,75,no
+281,Jukebox Solar,"ACE DevCo NC, LLC",Frio,TX,Texas (ERCOT),28INR0281,Solar,281.0,Waiting in line: final grid engineering study,57%,52.5,82.5,75,no
+282,Oak Valley Solar,Oak Valley Solar LLC,Navarro,TX,Texas (ERCOT),28INR0335,Solar,251.3,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+283,Blue Spring Solar,"Flat Creek Solar, LLC",Haskell,TX,Texas (ERCOT),28INR0433,Solar,301.0,Waiting in line: final grid engineering study,61%,52.5,82.5,75,no
+284,Paint Brush PV1,Renew Development HoldCo LLC,Coleman,TX,Texas (ERCOT),28INR0469,Solar,251.5,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+285,Paint Brush PV2,Renew Development HoldCo LLC,Coleman,TX,Texas (ERCOT),28INR0470,Solar,251.5,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+286,Pease River Solar,Pease River Solar LLC,Foard,TX,Texas (ERCOT),28INR0476,Solar,276.4,Waiting in line: final grid engineering study,56%,52.5,82.5,75,no
+287,Skeeter Solar,"Mesquite Solar, LLC",Jones,TX,Texas (ERCOT),29INR0026,Solar,251.0,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+288,Peach Creek Solar,Acciona Energy USA Global LLC,Wharton,TX,Texas (ERCOT),29INR0082,Solar,300.0,Waiting in line: final grid engineering study,61%,52.5,82.5,75,no
+289,Sundance Solar,"Sundance Solar, LLC",Knox,TX,Texas (ERCOT),29INR0122,Solar,301.0,Waiting in line: final grid engineering study,61%,52.5,82.5,75,no
+290,Selenite Springs Solar,"Selenite Springs Solar, LLC",Pecos,TX,Texas (ERCOT),29INR0147,Solar,300.0,Waiting in line: final grid engineering study,61%,52.5,82.5,75,no
+291,Glass Mountain Solar Solstice,"Glass Mountain Solar, LLC",Pecos,TX,Texas (ERCOT),29INR0181,Solar,304.0,Waiting in line: final grid engineering study,62%,52.5,82.5,75,no
+292,Glass Mountain Solar 2,"Glass Mountain Solar, LLC",Pecos,TX,Texas (ERCOT),29INR0182,Solar,304.3,Waiting in line: final grid engineering study,62%,52.5,82.5,75,no
+293,Glass Mountain Solar 1,"Glass Mountain Solar, LLC",Pecos,TX,Texas (ERCOT),29INR0183,Solar,304.3,Waiting in line: final grid engineering study,62%,52.5,82.5,75,no
+294,Paint Brush PV3,Renew Development HoldCo LLC,Coleman,TX,Texas (ERCOT),29INR0220,Solar,251.5,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+295,Paint Brush PV4,Renew Development HoldCo LLC,Coleman,TX,Texas (ERCOT),29INR0221,Solar,251.5,Waiting in line: final grid engineering study,51%,52.5,82.5,75,no
+296,438,,Stillwater,MT,"West, outside California",438,Wind,250.0,Waiting in line: final grid engineering study,82%,75.0,105.0,74,no
+297,"Two Rivers Wind, LLC","Two Rivers Wind, LLC",Albany,WY,"West, outside California",719,Wind,280.0,Waiting in line: paused,92%,75.0,105.0,74,no
+298,BHBE G20,,Dawes,SD,"West, outside California",BHBE G20,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,74,no
+299,J1558,,Pope,AR,Midwest (MISO),J1558 | J3449 | J3891,Solar,600.0,Waiting in line: grid connection agreement being finalized,122%,52.5,82.5,74,no
+300,J1577,,Grant,AR,Midwest (MISO),J1577 | J2134 | J2983 | J3481,Solar,540.0,Waiting in line: grid connection agreement being finalized,110%,52.5,82.5,74,no
+301,Riverstart Solar Park II,,Randolph,IN,Mid-Atlantic / Ohio Valley (PJM),AD1-128 | AE2-219 | AE2-220,Solar,375.0,Waiting in line: signed grid connection agreement,76%,52.5,82.5,74,no
+302,Mammoth South Energy Center,,Pulaski,IN,Mid-Atlantic / Ohio Valley (PJM),AF2-133,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,74,no
+303,Mayapple Solar,,Pulaski,IN,Mid-Atlantic / Ohio Valley (PJM),AG1-349,Solar,260.0,Waiting in line: signed grid connection agreement,53%,52.5,82.5,74,no
+304,ERAS-2025-019,,Edwards,KS,Central US (SPP),ERAS-2025-019 | GEN-2019-055 | GEN-2022-065,Solar,375.0,Waiting in line: signed grid connection agreement,76%,52.5,82.5,74,no
+305,GEN-2020-094,,Otoe,NE,Central US (SPP),GEN-2020-094,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,74,no
+306,GEN-2021-030,,Linn,KS,Central US (SPP),GEN-2021-030,Solar,510.3,Waiting in line: final grid engineering study,104%,52.5,82.5,74,no
+307,GEN-2021-096,,Coffey,KS,Central US (SPP),GEN-2021-096 | GEN-2024-139,Solar,750.0,Waiting in line: final grid engineering study,153%,52.5,82.5,74,no
+308,GEN-2022-013,,Bourbon,KS,Central US (SPP),GEN-2022-013 | GEN-2022-054 | GEN-2024-076,Solar,630.0,Waiting in line: final grid engineering study,128%,52.5,82.5,74,no
+309,GEN-2023-220,,Osage,KS,Central US (SPP),GEN-2023-220 | GEN-2023-221,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,74,no
+310,J1470,,Benton,IN,Midwest (MISO),J1470 | J2048 | J2440,Wind,230.0,Waiting in line: signed grid connection agreement,76%,75.0,105.0,73,no
+311,J1769,,Howard,IA,Midwest (MISO),J1769 | J3898 | J898,Wind,375.0,Under construction,124%,75.0,105.0,73,no
+312,Lower Crossing Wind,,Kankakee,IL,Mid-Atlantic / Ohio Valley (PJM),AD2-047,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,73,no
+313,Rolling Farms Wind Project,,Christian,IL,Mid-Atlantic / Ohio Valley (PJM),AF1-090,Wind,200.0,Waiting in line: signed grid connection agreement,66%,75.0,105.0,73,no
+314,J1062,,Washtenaw,MI,Midwest (MISO),J1062 | J1224 | J3653 | J3945 | J799,Solar,884.0,Waiting in line: signed grid connection agreement,180%,52.5,82.5,73,no
+315,J1214,,Dane,WI,Midwest (MISO),J1214 | J1410 | J1935 | J2429,Solar,700.0,Waiting in line: signed grid connection agreement,143%,52.5,82.5,73,no
+316,J1320,,Branch,MI,Midwest (MISO),J1320 | J1550 | J1916 | J3471 | J3859,Solar,800.0,Waiting in line: signed grid connection agreement,163%,52.5,82.5,73,no
+317,J1331,,St. Clair,MI,Midwest (MISO),J1331 | J1664 | J2677,Solar,500.0,Waiting in line: signed grid connection agreement,102%,52.5,82.5,73,no
+318,J1442,,Polk,TX,Midwest (MISO),J1442 | J2754,Solar,335.0,Under construction,68%,52.5,82.5,73,no
+319,J1641,,Greene,IN,Midwest (MISO),J1641 | J2747 | J2987 | J3495,Solar,730.0,Waiting in line: grid connection agreement being finalized,149%,52.5,82.5,73,no
+320,J1684,,Starke,IN,Midwest (MISO),J1684 | J2847 | J3207,Solar,480.0,Waiting in line: grid connection agreement being finalized,98%,52.5,82.5,73,no
+321,J1724,,Laporte,IN,Midwest (MISO),J1724 | J1785 | J2187 | J3679,Solar,523.0,Waiting in line: grid connection agreement being finalized,107%,52.5,82.5,73,no
+322,J1743,,Miami,IN,Midwest (MISO),J1743 | J2307 | J3719,Solar,622.9,Waiting in line: grid connection agreement being finalized,127%,52.5,82.5,73,no
+323,J1751,,Wood,WI,Midwest (MISO),J1751 | J2559 | J986,Solar,500.3,Waiting in line: signed grid connection agreement,102%,52.5,82.5,73,no
+324,J1780,,Montgomery,IN,Midwest (MISO),J1780 | J1782 | J1783 | J4039,Solar,700.0,Waiting in line: grid connection agreement being finalized,143%,52.5,82.5,73,no
+325,PacifiCorp,PacifiCorp,Emery,UT,"West, outside California",C2-167 | C2-168 | PIS056 | PIS057 | PIS058,Solar,568.0,Waiting in line: final grid engineering study,116%,52.5,82.5,73,no
+326,South Branch Solar,,Hancock,OH,Mid-Atlantic / Ohio Valley (PJM),AD1-070 | AF2-375 | AG1-076,Solar,380.6,Waiting in line: signed grid connection agreement,78%,52.5,82.5,73,no
+327,Harvey Solar I,,Licking,OH,Mid-Atlantic / Ohio Valley (PJM),AD2-067 | AG1-024 | AG1-034,Solar,362.5,Waiting in line: signed grid connection agreement,74%,52.5,82.5,73,no
+328,Blackwater Solar,,Sussex,VA,Mid-Atlantic / Ohio Valley (PJM),AE1-173,Solar,800.0,Waiting in line: signed grid connection agreement,163%,52.5,82.5,73,no
+329,Yellow Wood Solar Energy Center,,Clinton,OH,Mid-Atlantic / Ohio Valley (PJM),AE2-221,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,73,no
+330,Randolph Solar,Virginia Electric and Power Company (d/b/a Dominion Energy Virginia),Halifax,VA,Mid-Atlantic / Ohio Valley (PJM),AF2-042,Solar,500.0,Waiting in line: signed grid connection agreement,102%,52.5,82.5,73,no
+331,Goldfinch Solar,"Goldfinch Solar, LLC",Mason,KY,Mid-Atlantic / Ohio Valley (PJM),AF2-111,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,73,no
+332,25-IC-1376,,Baldwin,AL,Southeast,25-IC-1376 | IC-1224 | IC-1225,Solar,459.0,Waiting in line: signed grid connection agreement,94%,52.5,82.5,73,no
+333,IC-1071,,Perry,AL,Southeast,IC-1071 | IC-1127 | IC-1128,Solar,495.8,Waiting in line: signed grid connection agreement,101%,52.5,82.5,73,no
+334,385,,Lawrence,AL,Southeast,385 | 405,Solar,393.0,Waiting in line: signed grid connection agreement,80%,52.5,82.5,73,no
+335,Buffalo Creek,Lincoln Clean Energy Development,Fort Bend,TX,Texas (ERCOT),21INR0406,Solar,438.8,Waiting in line: signed grid connection agreement,90%,52.5,82.5,73,no
+336,J1701,,Mcdonough,IL,Midwest (MISO),J1701 | J2189 | J3493,Wind,415.6,Waiting in line: grid connection agreement being finalized,137%,75.0,105.0,72,no
+337,J722,,Codington,SD,Midwest (MISO),J722,Wind,200.0,Under construction,66%,75.0,105.0,72,no
+338,GI-2004-2,,Baca,CO,"West, outside California",GI-2004-2,Wind,238.0,Waiting in line: signed grid connection agreement,78%,75.0,105.0,72,no
+339,J1060,,St. Francis,AR,Midwest (MISO),J1060,Solar,500.0,Under construction,102%,52.5,82.5,72,no
+340,J1094,,Washington,IL,Midwest (MISO),J1094 | J1216,Solar,400.0,Waiting in line: signed grid connection agreement,82%,52.5,82.5,72,no
+341,J1096,,Saline,IL,Midwest (MISO),J1096 | J1208 | J1209 | J1302 | J2793 | J3916,Solar,810.0,Waiting in line: signed grid connection agreement,165%,52.5,82.5,72,no
+342,J1180,,Clark,IL,Midwest (MISO),J1180 | J1382 | J1475 | J3256 | J3950,Solar,840.0,Waiting in line: signed grid connection agreement,171%,52.5,82.5,72,no
+343,J1241,,Jefferson,IL,Midwest (MISO),J1241 | J3847,Solar,400.0,Waiting in line: signed grid connection agreement,82%,52.5,82.5,72,no
+344,J1281,,Ashley,AR,Midwest (MISO),J1281 | J603 | J680,Solar,275.0,Waiting in line: signed grid connection agreement,56%,52.5,82.5,72,no
+345,Company HK,,Lander,NV,"West, outside California",Company HK | Company HL | Company HP,Solar,249.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,72,no
+346,GEN-2017-231,,Franklin,AR,Central US (SPP),GEN-2017-231 | GEN-2021-033 | GEN-2024-312,Solar,326.6,Waiting in line: signed grid connection agreement,67%,52.5,82.5,72,no
+347,Blue Jay Solar,"Blue Jay Solar I, LLC",Grimes,TX,Texas (ERCOT),19INR0085 | 21INR0538,Solar,210.0,Waiting in line: signed grid connection agreement,43%,52.5,82.5,72,no
+348,Azalea Springs Solar,AZALEA SPRINGS SOLAR PARK LLC,Angelina,TX,Texas (ERCOT),19INR0110,Solar,181.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,72,no
+349,Castro Solar,"Castro Solar One, LLC",Castro,TX,Texas (ERCOT),20INR0050,Solar,224.7,Waiting in line: signed grid connection agreement,46%,52.5,82.5,72,no
+350,Diamondback solar,"Diamondback Solar, LLC",Starr,TX,Texas (ERCOT),20INR0162,Solar,203.8,Waiting in line: signed grid connection agreement,42%,52.5,82.5,72,no
+351,New Hickory Solar,New Hickory Solar LLC,Jackson,TX,Texas (ERCOT),20INR0236,Solar,209.2,Waiting in line: signed grid connection agreement,43%,52.5,82.5,72,no
+352,Tres Bahias Solar,Tres Bahias Solar Power LLC,Calhoun,TX,Texas (ERCOT),20INR0266,Solar,195.0,Waiting in line: signed grid connection agreement,40%,52.5,82.5,72,no
+353,Eastbell Milam Solar,EDP RENEWABLES NORTH AMERICA LLC,Milam,TX,Texas (ERCOT),21INR0203,Solar,244.9,Waiting in line: signed grid connection agreement,50%,52.5,82.5,72,no
+354,Nightfall Solar,"BDPU SOLAR NIGHTFALL, LLC",Uvalde,TX,Texas (ERCOT),21INR0334,Solar,180.9,Waiting in line: signed grid connection agreement,37%,52.5,82.5,72,no
+355,Armadillo Solar,"Armadillo Solar Center, LLC",Navarro,TX,Texas (ERCOT),21INR0421,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+356,Samson Solar 2,Samson Solar Energy II LLC,Lamar,TX,Texas (ERCOT),21INR0490,Solar,203.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+357,Sbranch Solar,"Bernard Creek Solar, LLC",Wharton,TX,Texas (ERCOT),22INR0205,Solar,233.5,Waiting in line: signed grid connection agreement,48%,52.5,82.5,72,no
+358,Inertia Solar,"Inertia Solar Project, LLC",Haskell,TX,Texas (ERCOT),22INR0374,Solar,202.4,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+359,Camino Santiago Solar,"Camino Solar Project, LLC",Milam,TX,Texas (ERCOT),22INR0605,Solar,196.3,Waiting in line: signed grid connection agreement,40%,52.5,82.5,72,no
+360,Erin Solar,Erin Solar LLC,Wharton,TX,Texas (ERCOT),23INR0058,Solar,202.5,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+361,Lavaca Bay Solar,"Lavaca Bay Solar Project, LLC",Matagorda,TX,Texas (ERCOT),23INR0084,Solar,243.5,Waiting in line: signed grid connection agreement,50%,52.5,82.5,72,no
+362,Nockenut Springs Solar 1,"Pecan Springs Energy, LLC",Guadalupe,TX,Texas (ERCOT),23INR0088,Solar,203.2,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+363,Donegal Solar,HE-Cottonwood Solar LLC,Dickens,TX,Texas (ERCOT),23INR0089,Solar,201.7,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+364,Cradle Solar,Cradle Solar LLC,Brazoria,TX,Texas (ERCOT),23INR0150,Solar,200.8,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+365,Grimes County Solar,"Grimes County Solar Project, LLC",Grimes,TX,Texas (ERCOT),23INR0160,Solar,211.2,Waiting in line: signed grid connection agreement,43%,52.5,82.5,72,no
+366,Erath County Solar,"Erath County Solar, LLC",Erath,TX,Texas (ERCOT),23INR0202,Solar,207.4,Waiting in line: signed grid connection agreement,42%,52.5,82.5,72,no
+367,Hoyte Solar,Milano Solar LLC,Milam,TX,Texas (ERCOT),23INR0235,Solar,206.8,Waiting in line: signed grid connection agreement,42%,52.5,82.5,72,no
+368,Dodd Solar I,Forest Grove Solar LLC,Henderson,TX,Texas (ERCOT),23INR0261,Solar,201.8,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+369,Fewell Solar,Fewell Solar LLC,Limestone,TX,Texas (ERCOT),23INR0367,Solar,203.5,Waiting in line: signed grid connection agreement,42%,52.5,82.5,72,no
+370,Nockenut Springs Solar 2,"Pecan Springs Energy, LLC",Guadalupe,TX,Texas (ERCOT),24INR0007,Solar,203.3,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+371,Stoneridge Solar,"Stoneridge Solar, LLC",Milam,TX,Texas (ERCOT),24INR0031,Solar,201.6,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+372,Yaupon Solar SLF,"Yaupon Solar, LLC",Milam,TX,Texas (ERCOT),24INR0042,Solar,200.8,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+373,Rockridge Solar,Magnolia Solar Development LLC,Guadalupe,TX,Texas (ERCOT),24INR0287,Solar,211.2,Waiting in line: signed grid connection agreement,43%,52.5,82.5,72,no
+374,Leighton Solar SLF,Lavender Solar LLC,Limestone,TX,Texas (ERCOT),24INR0298,Solar,183.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,72,no
+375,Diver Solar,Diver Solar,Limestone,TX,Texas (ERCOT),25INR0105,Solar,225.6,Waiting in line: signed grid connection agreement,46%,52.5,82.5,72,no
+376,Padrino Solar,"Hill Solar II, LLC",Hill,TX,Texas (ERCOT),25INR0166,Solar,201.4,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+377,"Echols Grove, LLC","Echols Grove, LLC",Lamar,TX,Texas (ERCOT),25INR0368,Solar,201.2,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+378,Maldives Solar,Maldives Solar LLC,Scurry,TX,Texas (ERCOT),25INR0400,Solar,184.0,Waiting in line: signed grid connection agreement,38%,52.5,82.5,72,no
+379,PHOTON SOLAR 1 2 SLF,"GulfStar Power, LLC",Wharton,TX,Texas (ERCOT),25INR0493,Solar,235.7,Waiting in line: signed grid connection agreement,48%,52.5,82.5,72,no
+380,Monument Hill Solar,"RWE Solar Development, LLC",Fayette,TX,Texas (ERCOT),25INR0512,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,72,no
+381,Texas Cotton Solar,"RWE Solar Development, LLC",Brazos,TX,Texas (ERCOT),26INR0568,Solar,201.6,Waiting in line: final grid engineering study,41%,52.5,82.5,72,no
+382,Abeja Solar Farm,Abeja Solar Farm LLC,Bee,TX,Texas (ERCOT),27INR0372,Solar,200.8,Waiting in line: signed grid connection agreement,41%,52.5,82.5,72,no
+383,Varadero Solar,"NextEra Energy Interconnection Holdings, LLC",Limestone,TX,Texas (ERCOT),28INR0013,Solar,206.0,Waiting in line: final grid engineering study,42%,52.5,82.5,72,no
+384,J1590,,Plymouth,IA,Midwest (MISO),J1590,Wind,200.0,Waiting in line: grid connection agreement being finalized,66%,75.0,105.0,71,no
+385,Monte Cristo II Wind,"Monte Cristo Windpower II, LLC",Hidalgo,TX,Texas (ERCOT),19INR0055,Wind,233.9,Waiting in line: signed grid connection agreement,77%,75.0,105.0,71,no
+386,Siete Wind,"Siete Wind, LLC",Webb,TX,Texas (ERCOT),27INR0536,Wind,492.8,Waiting in line: final grid engineering study,162%,75.0,105.0,71,no
+387,Bendito Wind,"Bendito Wind Farm, LLC",Webb,TX,Texas (ERCOT),29INR0117,Wind,300.0,Waiting in line: final grid engineering study,99%,75.0,105.0,71,no
+388,J1034,,Stoddard,MO,Midwest (MISO),J1034 | J2524,Solar,425.0,Under construction,87%,52.5,82.5,71,no
+389,J1087,,Scott,MO,Midwest (MISO),J1087 | J1299 | J3442,Solar,556.0,Under construction,113%,52.5,82.5,71,no
+390,J1268,,Lincoln,MO,Midwest (MISO),J1268 | J3919,Solar,350.0,Waiting in line: signed grid connection agreement,71%,52.5,82.5,71,no
+391,J1348,,Vermillion,IN,Midwest (MISO),J1348 | J1518,Solar,385.0,Waiting in line: signed grid connection agreement,78%,52.5,82.5,71,no
+392,J1369,,Dubois,IN,Midwest (MISO),J1369 | J1391 | J1736 | J3208,Solar,310.0,Waiting in line: signed grid connection agreement,63%,52.5,82.5,71,no
+393,J1458,,Washington,MS,Midwest (MISO),J1458 | J4121,Solar,500.0,Under construction,102%,52.5,82.5,71,no
+394,J1747,,Madison,MS,Midwest (MISO),J1747 | J3049 | J3053,Solar,407.0,Under construction,83%,52.5,82.5,71,no
+395,J2288,,Ralls,MO,Midwest (MISO),J2288 | J956,Solar,375.0,Waiting in line: signed grid connection agreement,76%,52.5,82.5,71,no
+396,J2806,,Warren,MO,Midwest (MISO),J2806 | J976,Solar,500.0,Under construction,102%,52.5,82.5,71,no
+397,Broomstick Solar Energy Centergy Center,,Christian,IL,Mid-Atlantic / Ohio Valley (PJM),AD2-100 | AD2-131,Solar,260.0,Waiting in line: signed grid connection agreement,53%,52.5,82.5,71,no
+398,25-IC-1342,,Laurens,GA,Southeast,25-IC-1342 | IC-1044 | IC-1206,Solar,574.0,Waiting in line: signed grid connection agreement,117%,52.5,82.5,71,no
+399,25-IC-1355,,Jasper,MS,Southeast,25-IC-1355 | IC-1145 | IC-1203,Solar,365.0,Waiting in line: signed grid connection agreement,74%,52.5,82.5,71,no
+400,IC-1002,,Decatur,GA,Southeast,IC-1002 | IC-441 | IC-789,Solar,527.0,Waiting in line: signed grid connection agreement,108%,52.5,82.5,71,no
+401,IC-1015,,Mitchell,GA,Southeast,IC-1015 | IC-1149 | IC-774,Solar,660.0,Waiting in line: signed grid connection agreement,135%,52.5,82.5,71,no
+402,IC-1098,,Taylor,GA,Southeast,IC-1098 | IC-800,Solar,425.0,Waiting in line: signed grid connection agreement,87%,52.5,82.5,71,no
+403,GEN-2019-009,,Nemaha,NE,Central US (SPP),GEN-2019-009 | GEN-2024-038 | GEN-2024-039 | GEN-2024-040,Solar,824.0,Waiting in line: paused,168%,52.5,82.5,71,no
+404,422,,Chickasaw,MS,Southeast,422 | 425,Solar,295.0,Waiting in line: signed grid connection agreement,60%,52.5,82.5,71,no
+405,CS23-06,,Whitman,WA,"West, outside California",CS23-06 | CS25-07,Wind,419.5,Waiting in line: signed grid connection agreement,138%,75.0,105.0,70,no
+406,Dundee East A Wind,"Felix 2, LLC",Baylor,TX,Texas (ERCOT),27INR0005,Wind,523.7,Waiting in line: signed grid connection agreement,172%,75.0,105.0,70,yes
+407,SANBORN 5 HYBRID,,Kern,CA,California (CAISO),1791,Solar,560.3,Waiting in line: signed grid connection agreement,114%,52.5,82.5,70,no
+408,SR Norwood II,,Warren,GA,Southeast,GI-173 | GI-206 | GI-214,Solar,400.0,Under construction,82%,52.5,82.5,70,no
+409,J1219,,Tangipahoa Parish,LA,Midwest (MISO),J1219 | J1870 | J909,Solar,400.0,Under construction,82%,52.5,82.5,70,no
+410,J1421,,East Feliciana Parish,LA,Midwest (MISO),J1421 | J3128,Solar,400.0,Under construction,82%,52.5,82.5,70,no
+411,J1450,,Webster,KY,Midwest (MISO),J1450 | J1619,Solar,310.0,Waiting in line: signed grid connection agreement,63%,52.5,82.5,70,no
+412,J1583,,Iberville Parish,LA,Midwest (MISO),J1583 | J2224,Solar,375.0,Waiting in line: signed grid connection agreement,76%,52.5,82.5,70,no
+413,J1598,,Calcasieu Parish,LA,Midwest (MISO),J1598 | J2292,Solar,375.0,Waiting in line: signed grid connection agreement,76%,52.5,82.5,70,no
+414,J1610,,Sangamon,IL,Midwest (MISO),J1610 | J2659 | J3418,Solar,470.0,Waiting in line: grid connection agreement being finalized,96%,52.5,82.5,70,no
+415,J1744,,Cumberland,IL,Midwest (MISO),J1744 | J2662,Solar,399.5,Waiting in line: grid connection agreement being finalized,82%,52.5,82.5,70,no
+416,J2143,,Chicot,AR,Midwest (MISO),J2143 | J2985,Solar,385.0,Waiting in line: grid connection agreement being finalized,78%,52.5,82.5,70,no
+417,J2149,,Saline,AR,Midwest (MISO),J2149 | J2955,Solar,390.0,Waiting in line: grid connection agreement being finalized,80%,52.5,82.5,70,no
+418,536,,Muhlenberg,KY,Southeast,536 | 642 | 649 | 650,Solar,537.0,Waiting in line: final grid engineering study,110%,52.5,82.5,70,no
+419,Two Step Solar,"Two Step Solar, LLC",Ellis,TX,Texas (ERCOT),29INR0196,Solar,405.2,Waiting in line: final grid engineering study,83%,52.5,82.5,70,no
+420,J1437,,Carroll,AR,Midwest (MISO),J1437,Wind,180.0,Under construction,59%,75.0,105.0,69,no
+421,PacifiCorp,PacifiCorp,Bingham,ID,"West, outside California",C2-92,Wind,206.0,Waiting in line: final grid engineering study,68%,75.0,105.0,69,no
+422,3RSC-2023-03,,Kiowa,CO,"West, outside California",3RSC-2023-03 | 5RSC-2024-15 | GI-DISIS-2022-17,Wind,899.0,Waiting in line: paused,296%,75.0,105.0,69,no
+423,Pepper Hammock 500 Solar,,Glynn,GA,Southeast,GI-168,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,69,no
+424,J1092,,St. Croix,WI,Midwest (MISO),J1092 | J1657 | J926,Solar,301.3,Waiting in line: signed grid connection agreement,61%,52.5,82.5,69,no
+425,J1124,,Olmsted,MN,Midwest (MISO),J1124 | J1534 | J3039 | J3041,Solar,600.0,Under construction,122%,52.5,82.5,69,no
+426,J1377,,Rock,WI,Midwest (MISO),J1377 | J1460 | J4097,Solar,370.1,Waiting in line: signed grid connection agreement,76%,52.5,82.5,69,no
+427,J1399,,Ingham,MI,Midwest (MISO),J1399 | J3838,Solar,315.0,Waiting in line: signed grid connection agreement,64%,52.5,82.5,69,no
+428,J1513,,Waupaca,WI,Midwest (MISO),J1513,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,69,no
+429,J1529,,Carroll,IA,Midwest (MISO),J1529 | J3477,Solar,250.0,Waiting in line: grid connection agreement being finalized,51%,52.5,82.5,69,no
+430,J1603,,Otsego,MI,Midwest (MISO),J1603 | J3134,Solar,350.0,Waiting in line: signed grid connection agreement,71%,52.5,82.5,69,no
+431,J1730,,Dunn,WI,Midwest (MISO),J1730 | J2446,Solar,600.0,Under construction,122%,52.5,82.5,69,no
+432,J1778,,Kenosha,WI,Midwest (MISO),J1778 | J2891 | J878,Solar,350.0,Waiting in line: signed grid connection agreement,71%,52.5,82.5,69,no
+433,J2287,,Bolivar,MS,Midwest (MISO),J2287 | J2751,Solar,260.0,Waiting in line: grid connection agreement being finalized,53%,52.5,82.5,69,no
+434,Chickahominy Solar 1 and 2,,Charles City,VA,Mid-Atlantic / Ohio Valley (PJM),AC1-164,Solar,320.0,Waiting in line: signed grid connection agreement,65%,52.5,82.5,69,no
+435,Old Route 66 Power,,Guadalupe,NM,"West, outside California",IA-PNM-2021-08,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,69,no
+436,GEN-2021-076,,Ellis,KS,Central US (SPP),GEN-2021-076 | GEN-2022-075,Solar,288.0,Waiting in line: final grid engineering study,59%,52.5,82.5,69,no
+437,GEN-2022-015,,Decatur,KS,Central US (SPP),GEN-2022-015,Solar,270.0,Waiting in line: final grid engineering study,55%,52.5,82.5,69,no
+438,GEN-2023-099,,Jackson,KS,Central US (SPP),GEN-2023-099,Solar,300.0,Waiting in line: final grid engineering study,61%,52.5,82.5,69,no
+439,Renegade Project,Renegade Renewable LLC,Deaf Smith,TX,Texas (ERCOT),20INR0255,Solar,515.7,Waiting in line: signed grid connection agreement,105%,52.5,82.5,69,yes
+440,Fighting Jays Solar,"AP Solar Holdings, LLC",Fort Bend,TX,Texas (ERCOT),21INR0278,Solar,351.3,Waiting in line: signed grid connection agreement,72%,52.5,82.5,69,no
+441,Grapefruit Solar,Grapefruit Solar LLC,Hidalgo,TX,Texas (ERCOT),27INR0118,Solar,291.4,Waiting in line: signed grid connection agreement,59%,52.5,82.5,69,no
+442,FOUNTAIN WIND,,Shasta,CA,California (CAISO),1106,Wind,206.0,Waiting in line: signed grid connection agreement,68%,75.0,105.0,68,no
+443,Longview Wind,"Longview Wind, LLC",Dawson,TX,Texas (ERCOT),26INR0530,Wind,352.6,Waiting in line: signed grid connection agreement,116%,75.0,105.0,68,yes
+444,Serenity Wind,"Serenity Wind, LLC",Armstrong,TX,Texas (ERCOT),27INR0443,Wind,473.0,Waiting in line: final grid engineering study,156%,75.0,105.0,68,yes
+445,21892,,Marion,SC,Southeast,21892 | 917739 | 956474 | 962968 | 977878 | 238 | 239 | 282,Solar,395.9,Under construction,81%,52.5,82.5,68,no
+446,925531,,Williamsburg,SC,Southeast,925531 | 956497 | 977121 | 977876 | 171 | 244 | 246 | 270,Solar,886.3,Under construction,181%,52.5,82.5,68,no
+447,J3718,,Greene,IL,Midwest (MISO),J3718 | J644,Solar,310.0,Waiting in line: signed grid connection agreement,63%,52.5,82.5,68,no
+448,Canisteo Wind,Canisteo Wind Energy LLC,Steuben,NY,New York (NYISO),519,Wind,290.7,Waiting in line: final grid engineering study,96%,75.0,105.0,67,no
+449,Bull Run II Wind,Bull Run Energy LLC,Clinton,NY,New York (NYISO),521,Wind,449.0,Waiting in line: final grid engineering study,148%,75.0,105.0,67,no
+450,Meitner 2 Wind,"IP Meitner, LLC",Gray,TX,Texas (ERCOT),29INR0103,Wind,709.1,Waiting in line: final grid engineering study,234%,75.0,105.0,67,no
+451,JEA-Q003-PV,,Duval,FL,Southeast,JEA-Q003-PV | JEA-Q004-PV | JEA-Q005-PV | JEA-Q006-PV | JEA-Q007-PV,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,67,no
+452,J1808,,Barron,WI,Midwest (MISO),J1808 | J4127,Solar,300.0,Waiting in line: grid connection agreement being finalized,61%,52.5,82.5,67,no
+453,25-IC-1323,,Dodge,GA,Southeast,25-IC-1323 | 25-IC-1324 | IC-768,Solar,390.2,Waiting in line: signed grid connection agreement,80%,52.5,82.5,67,no
+454,25-IC-1340,,Burke,GA,Southeast,25-IC-1340 | IC-1005 | IC-759,Solar,315.0,Waiting in line: signed grid connection agreement,64%,52.5,82.5,67,no
+455,IC-1172,,Jefferson,GA,Southeast,IC-1172 | IC-1204,Solar,327.5,Waiting in line: signed grid connection agreement,67%,52.5,82.5,67,no
+456,IC-950,,Mcduffie,GA,Southeast,IC-950,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,67,no
+457,GEN-2017-018,,Barber,KS,Central US (SPP),GEN-2017-018,Solar,189.0,Waiting in line: signed grid connection agreement,38%,52.5,82.5,67,no
+458,Walleye Solar,"Sandow Lakes Ranch Solar II, LLC",Milam,TX,Texas (ERCOT),20INR0127,Solar,215.2,Waiting in line: final grid engineering study,44%,52.5,82.5,67,no
+459,"Anson Solar Center, Phase III","Anson Solar Center 3, LLC",Jones,TX,Texas (ERCOT),21INR0247,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+460,TEXAS SOLAR NOVA 3,"Texas Solar Nova 1, LLC",Kent,TX,Texas (ERCOT),22INR0215,Solar,200.2,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+461,Loma Pinta Solar,"Loma Pinta Wind Energy, LLC",La Salle,TX,Texas (ERCOT),22INR0357,Solar,203.1,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+462,Scarlet Solar,"Innovative Solar 416, LLC",Castro,TX,Texas (ERCOT),23INR0015,Solar,180.0,Waiting in line: final grid engineering study,37%,52.5,82.5,67,no
+463,Accalia Point Solar,Accalia Point Solar LLC,Cameron,TX,Texas (ERCOT),23INR0066,Solar,190.5,Waiting in line: final grid engineering study,39%,52.5,82.5,67,no
+464,Kinenos Solar,"Encino del Sol Energy, LLC",Brooks,TX,Texas (ERCOT),23INR0087,Solar,203.2,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+465,Goodalta Solar,GoodAlta Power Center LLC,Navarro,TX,Texas (ERCOT),23INR0171,Solar,221.4,Waiting in line: final grid engineering study,45%,52.5,82.5,67,no
+466,Sepanta Solar,BREG - Belgian Renewable Energy Group,Nolan,TX,Texas (ERCOT),23INR0473,Solar,217.3,Waiting in line: final grid engineering study,44%,52.5,82.5,67,no
+467,Stem Solar,"Innovative Solar 134, LLC",Swisher,TX,Texas (ERCOT),24INR0003,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+468,Percy Farm Solar,"Percy Farm Solar 1, LLC",Matagorda,TX,Texas (ERCOT),24INR0020,Solar,198.6,Waiting in line: final grid engineering study,40%,52.5,82.5,67,no
+469,Two Rivers Solar,"Two Rivers Solar, LLC",Milam,TX,Texas (ERCOT),24INR0099,Solar,208.7,Waiting in line: final grid engineering study,43%,52.5,82.5,67,no
+470,DeSpain Solar Project,Gransolar Texas Thirteen LLC,Kinney,TX,Texas (ERCOT),24INR0182,Solar,236.2,Waiting in line: final grid engineering study,48%,52.5,82.5,67,no
+471,White Tail Solar,Mule Deer Solar LLC,Deaf Smith,TX,Texas (ERCOT),24INR0200,Solar,226.8,Waiting in line: final grid engineering study,46%,52.5,82.5,67,no
+472,Owens Solar,Owens Solar LLC,Bosque,TX,Texas (ERCOT),24INR0213,Solar,203.5,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+473,St. Gall Solar,St. Gall Solar LLC,Pecos,TX,Texas (ERCOT),24INR0233,Solar,207.0,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+474,Nockenut Springs Solar 3,"Pecan Springs Energy, LLC",Gonzales,TX,Texas (ERCOT),25INR0010,Solar,201.4,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+475,Hoskins Solar,"SGT HOSKINS SOLAR PROJECT, LLC",Lamar,TX,Texas (ERCOT),25INR0134,Solar,204.1,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+476,Timberlakes Solar,Donegalsol,Dickens,TX,Texas (ERCOT),25INR0165,Solar,203.5,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+477,Nockenut Springs Solar 4,"Pecan Springs Energy, LLC",Gonzales,TX,Texas (ERCOT),25INR0193,Solar,201.2,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+478,Nockenut Springs Solar 5,"Pecan Springs Energy, LLC",Gonzales,TX,Texas (ERCOT),25INR0280,Solar,201.2,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+479,Savannah Oaks Solar,Savannah Oaks Solar Project LLC,Madison,TX,Texas (ERCOT),25INR0286,Solar,201.2,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+480,Red Top Solar I,"Cat Red Top Solar, LLC",Young,TX,Texas (ERCOT),25INR0306,Solar,200.6,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+481,Pearl Moon,"Pearl Moon Solar, LLC",Colorado,TX,Texas (ERCOT),25INR0511,Solar,208.0,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+482,Puerto Del Sol 1,"PUERTO DEL SOL, LLC",Cameron,TX,Texas (ERCOT),26INR0008,Solar,213.8,Waiting in line: final grid engineering study,44%,52.5,82.5,67,no
+483,La Salle Solar,La Salle Solar LLC,La Salle,TX,Texas (ERCOT),26INR0088,Solar,512.6,Waiting in line: signed grid connection agreement,104%,52.5,82.5,67,yes
+484,Douie Solar,Buffalo Spring Solar LLC,Freestone,TX,Texas (ERCOT),26INR0098,Solar,221.2,Waiting in line: final grid engineering study,45%,52.5,82.5,67,no
+485,Running Iron Solar,"Running Iron Solar, LLC",Matagorda,TX,Texas (ERCOT),26INR0258,Solar,204.7,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+486,BumbleBee Solar,BumbleBee Solar Farm LLC,Bee,TX,Texas (ERCOT),26INR0412,Solar,211.6,Waiting in line: final grid engineering study,43%,52.5,82.5,67,no
+487,Hamby Solar,Abilene GCE LLC,Jones,TX,Texas (ERCOT),26INR0440,Solar,205.8,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+488,Puerto Del Sol 2,"PUERTO DEL SOL, LLC",Cameron,TX,Texas (ERCOT),27INR0002,Solar,213.8,Waiting in line: final grid engineering study,44%,52.5,82.5,67,no
+489,Angel City Solar,"Angel City Energy Center, LLC",Goliad,TX,Texas (ERCOT),27INR0144,Solar,221.0,Waiting in line: final grid engineering study,45%,52.5,82.5,67,no
+490,Larrea Solar,Greasewood IV LLC,Pecos,TX,Texas (ERCOT),27INR0146,Solar,231.6,Waiting in line: final grid engineering study,47%,52.5,82.5,67,no
+491,Johnson Grass Solar,"Johnson Grass Solar ,LLC",Mitchell,TX,Texas (ERCOT),27INR0348,Solar,195.8,Waiting in line: final grid engineering study,40%,52.5,82.5,67,no
+492,Bluefox Solar 3,Industrial November Project LLC,Matagorda,TX,Texas (ERCOT),28INR0064,Solar,201.8,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+493,Chimney Creek Solar,"Chimney Creek Energy, LLC",Shackelford,TX,Texas (ERCOT),28INR0151,Solar,203.9,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+494,Gail Mountain Solar,"Gail Mountain Solar, LLC",Borden,TX,Texas (ERCOT),28INR0176,Solar,244.4,Waiting in line: final grid engineering study,50%,52.5,82.5,67,no
+495,Dahlia Solar,Dahlia Energy LLC,La Salle,TX,Texas (ERCOT),28INR0240,Solar,201.0,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+496,Amphion Solar Phase 2,"Amphion Solar, LLC",Atascosa,TX,Texas (ERCOT),28INR0343,Solar,205.9,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+497,Dilley Solar,AETS Development Holdings LLC,Frio,TX,Texas (ERCOT),28INR0461,Solar,200.7,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+498,Grayback Solar,"Grayback Solar, LLC",Wilbarger,TX,Texas (ERCOT),28INR0464,Solar,221.8,Waiting in line: final grid engineering study,45%,52.5,82.5,67,no
+499,Amphion Solar Phase 1,"Amphion Solar, LLC",Atascosa,TX,Texas (ERCOT),29INR0050,Solar,180.6,Waiting in line: final grid engineering study,37%,52.5,82.5,67,no
+500,Roan Solar Phase 1,"Roan Solar, LLC",Sterling,TX,Texas (ERCOT),29INR0185,Solar,205.9,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+501,Roan Solar Phase 2,"Roan Solar, LLC",Sterling,TX,Texas (ERCOT),29INR0187,Solar,205.9,Waiting in line: final grid engineering study,42%,52.5,82.5,67,no
+502,Sawtooth Solar,"Sawtooth Solar, LLC",Runnels,TX,Texas (ERCOT),29INR0210,Solar,201.4,Waiting in line: final grid engineering study,41%,52.5,82.5,67,no
+503,Siete,Apex Clean Energy,Webb,TX,Texas (ERCOT),20INR0047,Wind,492.8,Waiting in line: signed grid connection agreement,162%,75.0,105.0,66,yes
+504,FPL,FPL,Manatee,FL,Southeast,191 | 424 | 428 | 433 | 437 | 509 | 510 | 511,Solar,596.0,Waiting in line: final grid engineering study,122%,52.5,82.5,66,no
+505,FPL,FPL,Indian River,FL,Southeast,427 | 432 | 452 | 456 | 491 | 492 | 493 | 594,Solar,596.0,Waiting in line: final grid engineering study,122%,52.5,82.5,66,no
+506,SR Bacon,,Bacon,GA,Southeast,GI-143 | GI-185 | GI-186,Solar,300.0,Under construction,61%,52.5,82.5,66,no
+507,J1286,,Evangeline Parish,LA,Midwest (MISO),J1286 | J2322,Solar,350.0,Under construction,71%,52.5,82.5,66,no
+508,J1503,,Faribault,MN,Midwest (MISO),J1503 | J1504,Solar,300.0,Waiting in line: grid connection agreement being finalized,61%,52.5,82.5,66,no
+509,J1605,,Sherburne,MN,Midwest (MISO),J1605 | J3439,Solar,300.0,Waiting in line: grid connection agreement being finalized,61%,52.5,82.5,66,no
+510,J1840,,Dewitt,IL,Midwest (MISO),J1840 | J4158,Solar,350.0,Waiting in line: grid connection agreement being finalized,71%,52.5,82.5,66,no
+511,Trade Post Solar Energy Center,,Sullivan,IN,Mid-Atlantic / Ohio Valley (PJM),AC2-157,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,66,no
+512,Bottlebrush Solar,,Lake,IN,Mid-Atlantic / Ohio Valley (PJM),AE2-045,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,66,no
+513,Sculpin Solar,,Dekalb,IN,Mid-Atlantic / Ohio Valley (PJM),AF1-091,Solar,180.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,66,no
+514,Martin County Solar Project,,Martin,KY,Mid-Atlantic / Ohio Valley (PJM),AF1-130,Solar,190.0,Waiting in line: signed grid connection agreement,39%,52.5,82.5,66,no
+515,Hoosier Line Solar,,White,IN,Mid-Atlantic / Ohio Valley (PJM),AF1-207,Solar,180.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,66,no
+516,Fleming Solar,"AEUG Fleming Solar, LLC",Fleming,KY,Mid-Atlantic / Ohio Valley (PJM),AF1-233,Solar,188.5,Waiting in line: signed grid connection agreement,38%,52.5,82.5,66,no
+517,Black Prairie Solar Park,,White,IN,Mid-Atlantic / Ohio Valley (PJM),AF1-322,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,66,no
+518,Lynn Bark Energy Center,,Martin,KY,Mid-Atlantic / Ohio Valley (PJM),AF2-018,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,66,no
+519,Moss Creek Solar,,Pulaski,IN,Mid-Atlantic / Ohio Valley (PJM),AF2-205,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,66,no
+520,Flatrock Creek Solar I,,Allen,IN,Mid-Atlantic / Ohio Valley (PJM),AF2-224 | AG1-365,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,66,no
+521,18-11071,,Larimer,CO,"West, outside California",18-11071 | 20-02261 | 24-10021 | 25-041825,Solar,310.0,Under construction,63%,52.5,82.5,66,no
+522,25-IC-1326,,Jasper,GA,Southeast,25-IC-1326 | IC-972,Solar,500.0,Waiting in line: final grid engineering study,102%,52.5,82.5,66,no
+523,GEN-2017-210,,Cedar,NE,Central US (SPP),GEN-2017-210,Solar,310.0,Waiting in line: paused,63%,52.5,82.5,66,no
+524,MOUNT LAGUNA WIND 2,,San Diego,CA,California (CAISO),1429,Wind,400.0,Waiting in line: signed grid connection agreement,132%,75.0,105.0,65,no
+525,Bug Tussle Wind Project,"Bug Tussle Wind, LLC",Lamar,TX,Texas (ERCOT),23INR0441,Wind,396.8,Waiting in line: signed grid connection agreement,131%,75.0,105.0,65,yes
+526,Masked,Masked,Richmond,NC,Southeast,923973,Solar,275.0,Waiting in line: grid connection agreement being finalized,56%,52.5,82.5,65,no
+527,Q08,,Clark,NV,"West, outside California",Q08 | Company 140 | Company 147 | Company 170,Solar,582.3,Waiting in line: signed grid connection agreement,119%,52.5,82.5,65,no
+528,J1154,,Jefferson,WI,Midwest (MISO),J1154 | J4101 | J818,Solar,295.0,Under construction,60%,52.5,82.5,65,no
+529,J1251,,Marquette,MI,Midwest (MISO),J1251 | J1750 | J2029,Solar,312.2,Under construction,64%,52.5,82.5,65,no
+530,Cadence Solar Energy Center,,Union,OH,Mid-Atlantic / Ohio Valley (PJM),AD2-093,Solar,240.0,Waiting in line: signed grid connection agreement,49%,52.5,82.5,65,no
+531,Eastern Cottontail Solar,,Fairfield,OH,Mid-Atlantic / Ohio Valley (PJM),AE2-048,Solar,220.0,Waiting in line: signed grid connection agreement,45%,52.5,82.5,65,no
+532,Sloopy Solar Energy Center,,Clark,OH,Mid-Atlantic / Ohio Valley (PJM),AE2-217,Solar,180.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,65,no
+533,CG Fulton County,,Fulton,OH,Mid-Atlantic / Ohio Valley (PJM),AF1-206,Solar,199.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,65,no
+534,Palomino Solar,,Highland,OH,Mid-Atlantic / Ohio Valley (PJM),AF2-440 | AG1-107,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,65,no
+535,GEN-2022-038,,Harrison,TX,Central US (SPP),GEN-2022-038,Solar,180.0,Waiting in line: final grid engineering study,37%,52.5,82.5,65,no
+536,GEN-2024-SR7,,Beaver,OK,Central US (SPP),GEN-2024-SR7,Solar,200.0,Waiting in line: grid connection agreement being finalized,41%,52.5,82.5,65,no
+537,Cottonwood Bayou Solar,"Cottonwood Bayou Solar, LLC",Brazoria,TX,Texas (ERCOT),19INR0134,Solar,351.4,Waiting in line: signed grid connection agreement,72%,52.5,82.5,65,no
+538,Caliche Mound Solar,Tierra Blanco Solar LLC,Deaf Smith,TX,Texas (ERCOT),23INR0056,Solar,406.6,Waiting in line: signed grid connection agreement,83%,52.5,82.5,65,yes
+539,Zeissel Solar,"ZSS Power, LLC",Knox,TX,Texas (ERCOT),24INR0258,Solar,451.5,Waiting in line: signed grid connection agreement,92%,52.5,82.5,65,yes
+540,Galaxy Solar 2,"Galaxy Solar 2, LLC",Ellis,TX,Texas (ERCOT),28INR0385,Solar,301.6,Waiting in line: final grid engineering study,62%,52.5,82.5,65,no
+541,Cenizo Solar,"Renew Development Holdco, LLC",Webb,TX,Texas (ERCOT),29INR0219,Solar,301.4,Waiting in line: final grid engineering study,62%,52.5,82.5,65,no
+542,67,,Adams,WA,"West, outside California",67 | 73 | 81 | 85 | CS24-01 | CS24-07 | G1003,Solar,285.0,Waiting in line: signed grid connection agreement,58%,52.5,82.5,64,no
+543,J800,,White,IL,Midwest (MISO),J800,Solar,250.0,Under construction,51%,52.5,82.5,64,no
+544,GEN-2021-036,,Little River,AR,Central US (SPP),GEN-2021-036,Solar,204.1,Waiting in line: signed grid connection agreement,42%,52.5,82.5,64,no
+545,Baird North Wind,"BMP Wind, LLC",Callahan,TX,Texas (ERCOT),20INR0083,Wind,340.0,Waiting in line: signed grid connection agreement,112%,75.0,105.0,63,yes
+546,20220316001,,Aiken,SC,Southeast,20220316001 | 124 | 208 | 281,Solar,303.8,Under construction,62%,52.5,82.5,63,no
+547,566580,,Lee,SC,Southeast,566580 | 962925 | PP00010,Solar,265.0,Under construction,54%,52.5,82.5,63,no
+548,Q06,,San Bernardino,CA,"West, outside California",Q06,Solar,300.0,Waiting in line: signed grid connection agreement,61%,52.5,82.5,63,no
+549,J1352,,Montgomery,MO,Midwest (MISO),J1352 | J2179,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,63,no
+550,J1378,,Fountain,IN,Midwest (MISO),J1378,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,63,no
+551,Cherry Solar,,Northampton,NC,Mid-Atlantic / Ohio Valley (PJM),AC1-086,Solar,180.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,63,no
+552,Blooming Grove Solar Energy Center,,Livingston,IL,Mid-Atlantic / Ohio Valley (PJM),AE1-205,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,63,no
+553,130,,Georgetown,SC,Southeast,130 | 135 | 165,Solar,250.0,Under construction,51%,52.5,82.5,63,no
+554,GEN-2019-016,,Polk,MO,Central US (SPP),GEN-2019-016,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,63,no
+555,Soleil Solar,"Soleil Solar, LLC",Clay,TX,Texas (ERCOT),25INR0097,Solar,451.7,Waiting in line: signed grid connection agreement,92%,52.5,82.5,63,yes
+556,J2298,,Greene,AR,Midwest (MISO),J2298,Solar,200.0,Waiting in line: grid connection agreement being finalized,41%,52.5,82.5,62,no
+557,Pleasant Prairie Solar Energy Center,,Franklin,OH,Mid-Atlantic / Ohio Valley (PJM),AE2-214 | AF1-275,Solar,250.0,Waiting in line: signed grid connection agreement,51%,52.5,82.5,62,no
+558,GEN-2021-107,,Pottawatomie,KS,Central US (SPP),GEN-2021-107,Solar,201.6,Waiting in line: final grid engineering study,41%,52.5,82.5,62,no
+559,GEN-2022-006,,Labette,KS,Central US (SPP),GEN-2022-006,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,62,no
+560,GEN-2023-038,,Coal,OK,Central US (SPP),GEN-2023-038,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,62,no
+561,GEN-2023-177,,Garvin,OK,Central US (SPP),GEN-2023-177,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,62,no
+562,GEN-2023-205,,Hughes,OK,Central US (SPP),GEN-2023-205,Solar,180.0,Waiting in line: final grid engineering study,37%,52.5,82.5,62,no
+563,Oystercatcher Solar,"Oystercatcher Solar, LLC",Ellis,TX,Texas (ERCOT),21INR0362,Solar,222.2,Waiting in line: signed grid connection agreement,45%,52.5,82.5,62,no
+564,Sequoia II Solar,Deville Solar LLC,Callahan,TX,Texas (ERCOT),22INR0262,Solar,417.5,Waiting in line: signed grid connection agreement,85%,52.5,82.5,62,yes
+565,Corvus Solar,"Corvus Solar, LLC",Webb,TX,Texas (ERCOT),27INR0126,Solar,201.5,Waiting in line: signed grid connection agreement,41%,52.5,82.5,62,no
+566,J1310,,Jackson,MI,Midwest (MISO),J1310 | J1472,Solar,225.0,Waiting in line: signed grid connection agreement,46%,52.5,82.5,61,no
+567,J1502,,Juneau,WI,Midwest (MISO),J1502,Solar,225.0,Waiting in line: signed grid connection agreement,46%,52.5,82.5,61,no
+568,J1519,,Bollinger,MO,Midwest (MISO),J1519,Solar,200.0,Waiting in line: grid connection agreement being finalized,41%,52.5,82.5,61,no
+569,J1745,,Winnebago,WI,Midwest (MISO),J1745 | J3466,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,61,no
+570,Sycamore Cross Solar,,Isle Of Wight,VA,Mid-Atlantic / Ohio Valley (PJM),AC2-141,Solar,240.0,Waiting in line: signed grid connection agreement,49%,52.5,82.5,61,no
+571,Firefly Solar,,Pittsylvania,VA,Mid-Atlantic / Ohio Valley (PJM),AD2-022 | AD2-023,Solar,191.0,Waiting in line: signed grid connection agreement,39%,52.5,82.5,61,no
+572,Axton Solar,,Henry,VA,Mid-Atlantic / Ohio Valley (PJM),AE2-140,Solar,201.1,Waiting in line: signed grid connection agreement,41%,52.5,82.5,61,no
+573,IC-1266,,Bullock,AL,Southeast,IC-1266,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,61,no
+574,GEN-2021-108,,Cass,NE,Central US (SPP),GEN-2021-108,Solar,182.2,Waiting in line: final grid engineering study,37%,52.5,82.5,61,no
+575,374,,Lawrence,TN,Southeast,374,Solar,195.0,Waiting in line: signed grid connection agreement,40%,52.5,82.5,61,no
+576,445,,Moore,TN,Southeast,445,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,61,no
+577,569890,,Wayne,NC,Southeast,569890 | 920659 | 957017 | 977272,Solar,228.9,Waiting in line: signed grid connection agreement,47%,52.5,82.5,60,no
+578,J1266,,Marion,IL,Midwest (MISO),J1266 | J3130,Solar,199.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,60,no
+579,J1559,,Conway,AR,Midwest (MISO),J1559,Solar,200.0,Under construction,41%,52.5,82.5,60,no
+580,J2228,,Concordia Parish,LA,Midwest (MISO),J2228,Solar,200.0,Waiting in line: grid connection agreement being finalized,41%,52.5,82.5,60,no
+581,Q03,,Kern,CA,"West, outside California",Q03,Solar,250.0,Under construction,51%,52.5,82.5,59,no
+582,J1107,,Cape Girardeau,MO,Midwest (MISO),J1107,Solar,200.0,Under construction,41%,52.5,82.5,59,no
+583,J805,,Shelby,IN,Midwest (MISO),J805,Solar,199.0,Under construction,41%,52.5,82.5,59,no
+584,J992,,Cass,IN,Midwest (MISO),J992,Solar,200.0,Under construction,41%,52.5,82.5,59,no
+585,J993,,Boone,IN,Midwest (MISO),J993,Solar,200.0,Under construction,41%,52.5,82.5,59,no
+586,Cherrywood Solar I,,Caroline,MD,Mid-Atlantic / Ohio Valley (PJM),AB2-037,Solar,202.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+587,IC-1055,,Coffee,GA,Southeast,IC-1055,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+588,IC-1088,,Lee,GA,Southeast,IC-1088,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+589,IC-1094,,Irwin,GA,Southeast,IC-1094,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+590,IC-1097,,Emanuel,GA,Southeast,IC-1097,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+591,IC-1142,,Baldwin,GA,Southeast,IC-1142,Solar,183.0,Waiting in line: signed grid connection agreement,37%,52.5,82.5,59,no
+592,IC-1152,,Washington,GA,Southeast,IC-1152,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+593,IC-1195,,Warren,GA,Southeast,IC-1195,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+594,IC-762,,Oglethorpe,GA,Southeast,IC-762 | IC-769 | IC-988,Solar,218.0,Waiting in line: signed grid connection agreement,44%,52.5,82.5,59,no
+595,IC-868,,Bartow,GA,Southeast,IC-868,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,59,no
+596,512,,Lee,MS,Southeast,512,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,59,no
+597,SR Rochelle II Solar,,Wilcox,GA,Southeast,GI-158 | GI-183,Solar,210.0,Under construction,43%,52.5,82.5,58,no
+598,LGE-GIS-2021-007,,Mccracken,KY,Southeast,LGE-GIS-2021-007 | 609,Solar,216.0,Waiting in line: final grid engineering study,44%,52.5,82.5,58,no
+599,J1581,,Nobles,MN,Midwest (MISO),J1581,Solar,200.0,Waiting in line: grid connection agreement being finalized,41%,52.5,82.5,58,no
+600,J762,,Meade,KY,Midwest (MISO),J762,Solar,200.0,Under construction,41%,52.5,82.5,58,no
+601,174 Power Global,174 Power Global,Pueblo,CO,"West, outside California",BHCT G29,Solar,200.0,Waiting in line: paused,41%,52.5,82.5,57,no
+602,Fairboro Solar,,Ware,GA,Southeast,GI-155,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,57,no
+603,Pepper Hammock Solar,,Glynn,GA,Southeast,GI-166,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,57,no
+604,Pepper Hammock 200 MW,,Glynn,GA,Southeast,GI-180,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,57,no
+605,J1071,,Oceana,MI,Midwest (MISO),J1071 | J3065 | J4048,Solar,230.0,Under construction,47%,52.5,82.5,57,no
+606,J1663,,Ottawa,MI,Midwest (MISO),J1663,Solar,200.0,Under construction,41%,52.5,82.5,57,no
+607,566488,,Chesterfield,SC,Southeast,566488 | 977873 | PP00003,Solar,224.7,Under construction,46%,52.5,82.5,56,no
+608,J1102,,Logan,IL,Midwest (MISO),J1102 | J1651,Solar,219.5,Under construction,45%,52.5,82.5,56,no
+609,Nazareth Solar,"TX Nazareth Solar, LLC",Castro,TX,Texas (ERCOT),16INR0049,Solar,203.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,56,yes
+610,"Duke Energy Florida, LLC","Duke Energy Florida, LLC",Orange,FL,Southeast,341 | 342 | 343,Solar,224.7,Under construction,46%,52.5,82.5,55,no
+611,"Duke Energy Florida, LLC","Duke Energy Florida, LLC",Madison,FL,Southeast,344 | FC100006 | FC100007,Solar,224.7,Under construction,46%,52.5,82.5,55,no
+612,Rodeo Solar,"Core Solar SPV I, LLC",Andrews,TX,Texas (ERCOT),19INR0103,Solar,200.0,Waiting in line: signed grid connection agreement,41%,52.5,82.5,55,yes
+613,"Florida Renewable Partners, LLC","Florida Renewable Partners, LLC",Gilchrist,FL,Southeast,171 | 283 | 324,Solar,223.5,Waiting in line: final grid engineering study,46%,52.5,82.5,54,no
+614,FPL,FPL,Brevard,FL,Southeast,306 | 357 | 358,Solar,223.5,Waiting in line: final grid engineering study,46%,52.5,82.5,54,no
+615,25-IC-1372,,Elbert,GA,Southeast,25-IC-1372 | IC-1165,Solar,229.0,Waiting in line: final grid engineering study,47%,52.5,82.5,54,no
+616,Gateway Solar Energy Center,"Gateway Solar Energy Center, LLC",St. Lawrence,NY,New York (NYISO),620,Solar,180.0,Waiting in line: final grid engineering study,37%,52.5,82.5,53,no
+617,Horseshoe Solar,Horseshoe Solar Energy LLC,Livingston,NY,New York (NYISO),710,Solar,180.0,Waiting in line: final grid engineering study,37%,52.5,82.5,53,no
+618,Garnet Energy Center,"Garnet Energy Center, LLC",Cayuga,NY,New York (NYISO),883,Solar,200.0,Waiting in line: final grid engineering study,41%,52.5,82.5,53,no
+619,Blue Bird Solar,Gigawatt Solar LLC,Johnson,TX,Texas (ERCOT),24INR0075,Solar,773.0,Waiting in line: signed grid connection agreement,158%,52.5,82.5,51,yes
+620,Compadre Solar,"Hill Solar I, LLC",Hill,TX,Texas (ERCOT),24INR0023,Solar,405.7,Waiting in line: signed grid connection agreement,83%,52.5,82.5,30,yes
+621,Priddy Wind,ENGIE North America,Mills,TX,Texas (ERCOT),16INR0085,Wind,302.4,Waiting in line: signed grid connection agreement,100%,75.0,105.0,13,yes
+622,Canyon Wind,"Canyon Wind Energy, LLC",Scurry,TX,Texas (ERCOT),18INR0030,Wind,308.8,Waiting in line: signed grid connection agreement,102%,75.0,105.0,11,yes
+623,Whitehorse Wind,MESQUITE STAR SPECIAL LLC,Fisher,TX,Texas (ERCOT),19INR0080,Wind,418.9,Waiting in line: signed grid connection agreement,138%,75.0,105.0,11,yes
+624,Danish Fields Solar,"Danish Fields Solar, LLC",Wharton,TX,Texas (ERCOT),20INR0069,Solar,602.8,Waiting in line: signed grid connection agreement,123%,52.5,82.5,9,yes
+625,Myrtle Solar,"Myrtle Solar, LLC",Brazoria,TX,Texas (ERCOT),19INR0041,Solar,321.2,Waiting in line: signed grid connection agreement,66%,52.5,82.5,7,yes
