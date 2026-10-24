@@ -1,6 +1,6 @@
 # Can stuck clean power run America's new data centers?
 
-A plain-English study of whether solar and wind farms that are **waiting for permission to connect to the power grid** could instead power **data centers built right next to them**.
+A study of whether solar and wind farms that are **waiting for permission to connect to the power grid** could instead power **data centers built right next to them**.
 
 September 2026 · by Raf Y · [WattConnector](https://wattconnector.munjr.com/)
 
